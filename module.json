@@ -37,13 +37,7 @@
   },
   "esmodules": ["k4lt-fr-translate-pl.js"],
   "styles": [],
-  "packs": [{
-      "label": "Atuty",
-      "name": "advantages",
-      "type": "Item",
-      "system": "k4lt",
-      "path": "packs/advantages.db"
-    }],
+  "packs": [],
     "url": "https://github.com/otimor/kult-compendium-pl",
     "manifest": "https://raw.githubusercontent.com/otimor/kult-compendium-pl/main/module.json",
     "download": "https://raw.githubusercontent.com/otimor/kult-compendium-pl/main/kult_compendium_pl.zip"
