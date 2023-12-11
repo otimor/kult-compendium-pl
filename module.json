@@ -38,7 +38,7 @@
   "esmodules": ["k4lt-fr-translate-pl.js"],
   "styles": [],
   "packs": [],
-    "url": "https://github.com/otimor/kult-translate-pl",
-    "manifest": "https://github.com/otimor/kult-compendium-pl/blob/main/module.json",
+    "url": "https://github.com/otimor/kult-compendium-pl",
+    "manifest": "",
     "download": ""
 }
