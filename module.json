@@ -2,7 +2,7 @@
   "id": "kult-compendium-pl",
   "title": "KULT: Divinity Lost · Compendiums Transaltions PL",
   "description": "Polish translations for compendias form module of French module for the 'KULT: Divinity Lost (4th Edition)' (k4lt) game system on Foundry VTT.",
-  "version": "1.0.1",
+  "version": "1.1.1",
   "license": "LICENSE",
   "compatibility": {
     "minimum": "10",
@@ -37,7 +37,13 @@
   },
   "esmodules": ["k4lt-fr-translate-pl.js"],
   "styles": [],
-  "packs": [],
+  "packs": [{
+      "label": "Atuty",
+      "name": "advantages",
+      "type": "Item",
+      "system": "k4lt",
+      "path": "packs/advanatages.db"
+    }],
     "url": "https://github.com/otimor/kult-compendium-pl",
     "manifest": "https://raw.githubusercontent.com/otimor/kult-compendium-pl/main/module.json",
     "download": "https://raw.githubusercontent.com/otimor/kult-compendium-pl/main/kult_compendium_pl.zip"
