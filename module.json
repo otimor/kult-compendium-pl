@@ -1,8 +1,8 @@
 {
   "id": "kult-compendium-pl",
   "title": "KULT: Divinity Lost · Compendiums Transaltions PL",
-  "description": "Polish translations for compendias form module of French module for the 'KULT: Divinity Lost (4th Edition)' (k4lt) game system on Foundry VTT.",
-  "version": "1.3.3",
+  "description": "Polish translations for compendiums form module of French module for the 'KULT: Divinity Lost (4th Edition)' (k4lt) game system on Foundry VTT.",
+  "version": "1.4.4",
   "license": "LICENSE",
   "compatibility": {
     "minimum": "9",

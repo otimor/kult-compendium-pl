@@ -797,8 +797,8 @@
             "effect": "Za ka\u017cdym razem, gdy rozpoczynasz niebezpieczn\u0105 misj\u0119, rzu\u0107 +Rozum: ",
             "completesuccess": "W dowolnym momencie misji wybierz do trzech mo\u017cliwo\u015bci. ",
             "partialsuccess": "W dowolnym momencie misji wybierz do dw\u00f3ch mo\u017cliwo\u015bci. ",
-            "failure": "W dowolnym momencie misji wybierz jedn\u0105 z mo\u017cliwo\u015bci. Czego\u015b jednak nie wzi\u0105\u0142e\u015b pod uwag\u0119. MG wykonuje Ruch. ",
-            "options": "<ul><li> </li><li> Przypominasz sobie co\u015b, co pomo\u017ce ci w negocjacjach. Zapytaj MG, co to takiego.  </li><li> Masz przedmiot, kt\u00f3rego mo\u017cesz u\u017cy\u0107, by wybrn\u0105\u0107 z trudnej sytuacji. Zapytaj MG, co to jest. </li><li> Masz przedmiot, kt\u00f3rego mo\u017cesz u\u017cy\u0107, by wybrn\u0105\u0107pomo\u017ce ci w pokonaniu jednej z przeszk\u00f3d. Zapytaj MG, jakie to szkolenie. </li></ul>",
+            "failure": "W dowolnym momencie misji wybierz jedn\u0105 z mo\u017cliwo\u015bci. Czego\u015b jednak nie wzi\u0105\u0142e\u015b pod uwag\u0119. MG wykonuje Ruch.",
+            "options": "<ul><li> </li><li> Przypominasz sobie co\u015b, co pomo\u017ce ci w negocjacjach. Zapytaj MG, co to takiego.  </li><li> Masz przedmiot, kt\u00f3rego mo\u017cesz u\u017cy\u0107, by wybrn\u0105\u0107 z trudnej sytuacji. Zapytaj MG, co to jest. </li><li> Przeszed\u0142e\u015b specjalne szkolenie terenowe, kt\u00f3re pomo\u017ce ci w pokonaniu jednej z przeszk\u00f3d. Zapytaj MG, jakie to szkolenie</li></ul>",
             "id": "Jamais au d\u00e9pourvu"
         },
         {
@@ -807,7 +807,7 @@
             "completesuccess": "",
             "partialsuccess": "",
             "failure": "",
-            "options": "",
+            "options": "<ul><li></li><li> archeologia </li><li> ekonomia </li><li> historia </li><li> komparatystyka </li><li> psychologia </li><li> socjologia </li><li> teologia </li><li> (inny).</li></ul>",
             "id": "Expert\u00b7e"
         },
         {
@@ -852,7 +852,7 @@
             "completesuccess": "Wybierz dwie mo\u017cliwo\u015bci. ",
             "partialsuccess": "<ul><li>Mo\u017cesz wybra\u0107 jedn\u0105 z mo\u017cliwo\u015bci, musisz jednak wybra\u0107 te\u017c jakie\u015b negatywne skutki:  </li><li> Pozostawiasz blizny lub defekty urody (pacjent obni\u017ca Stabilno\u015b\u0107 (\u22122)).  </li><li> Wyst\u0119puj\u0105 efekty uboczne (\u22121 do wszystkich rzut\u00f3w, na jakie mog\u0142aby wp\u0142yn\u0105\u0107 rana, do czasu jej ca\u0142kowitego wyleczenia).  </li><li> Pacjent pozostaje nieprzytomny do czasu, a\u017c MG uzna, \u017ce si\u0119 budzi. </li></ul>",
             "failure": "Opatrujesz ran\u0119, nawet bez sprz\u0119tu medycznego, ale wyst\u0119puj\u0105 nieprzewidziane i potencjalnie gro\u017ane konsekwencje, takie jak infekcje, deformacje lub inne powa\u017cne efekty uboczne. MG wykonuje Ruch. ",
-            "options": "<ul><li> </li><li> Improwizacja: Opatrujesz 1 Ran\u0119 bez dost\u0119pu do sprz\u0119tu medycznego.  </li><li> Efektywny: Opatrujesz 2 Rany zamiast jednej. </li><li> Efektywny: Opatrujesz 2 Rany zamiast jednej.znacznie szybciej ni\u017c normalnie. </li></ul>",
+            "options": "<ul><li> </li><li> Improwizacja: Opatrujesz 1 Ran\u0119 bez dost\u0119pu do sprz\u0119tu medycznego.  </li><li> Efektywny: Opatrujesz 2 Rany zamiast jednej. </li><li> Staranny: Opatrujesz Ran\u0119. Zaleczy si\u0119 on znacznie szybciej ni\u017c normalnie. </li></ul>",
             "id": "M\u00e9decine de guerre"
         },
         {
@@ -885,18 +885,18 @@
         {
             "name": "Pirotechnik ",
             "effect": "Potrafisz budowa\u0107 i rozbraja\u0107 bomby. Je\u015bli posiadasz do\u015b\u0107 czasu i zasob\u00f3w, mo\u017cesz skonstruowa\u0107 ka\u017cd\u0105 bomb\u0119. Jednak\u017ce, je\u015bli konstruujesz improwizowan\u0105 bomb\u0119 pod presj\u0105 czasu, rzu\u0107 +Rozum: ",
-            "completesuccess": "Rozbrajasz bomb\u0119. ",
-            "partialsuccess": "Sprawy si\u0119 gmatwaj\u0105. By\u0107 mo\u017ce nie potrafisz ca\u0142kowicie jej wy\u0142\u0105czy\u0107, op\u00f3\u017ani\u0142e\u015b jedynie zapalnik czasowy, os\u0142abi\u0142e\u015b eksplozj\u0119 lub pojawi\u0142y si\u0119 inne problemy i pogorszy\u0142y spraw\u0119. ",
-            "failure": "Kurwa, niedobrze! Bomba mo\u017ce wybuchn\u0105\u0107 ci w r\u0119kach, zapalnik czasowy odlicza 10, 9, 8, 7... lub dzieje si\u0119 co\u015b jeszcze gorszego. MG wykonuje Ruch. ",
+            "completesuccess": "Rozbrajanie: Rozbrajasz bomb\u0119. / Budowa: Konstruujesz dzia\u0142aj\u0105c\u0105 bomb\u0119 (patrz: Materia\u0142y wybuchowe w Rozdziale 4: Bohater gracza).",
+            "partialsuccess": "Rozbrajanie: Sprawy si\u0119 gmatwaj\u0105. By\u0107 mo\u017ce nie potrafisz ca\u0142kowicie jej wy\u0142\u0105czy\u0107, op\u00f3\u017ani\u0142e\u015b jedynie zapalnik czasowy, os\u0142abi\u0142e\u015b eksplozj\u0119 lub pojawi\u0142y si\u0119 inne problemy i pogorszy\u0142y spraw\u0119. / Budowa: Potencja\u0142 niszcz\u0105cy bomby jest mniejszy ni\u017c zak\u0142adany (zmniejsz zadawane Obra\u017cenia o \u22121).",
+            "failure": "Rozbrajanie: Kurwa, niedobrze! Bomba mo\u017ce wybuchn\u0105\u0107 ci w r\u0119kach, zapalnik czasowy odlicza 10, 9, 8, 7... lub dzieje si\u0119 co\u015b jeszcze gorszego. MG wykonuje Ruch. / Budowa: Bomba dzia\u0142a w nieprzewidywalny spos\u00f3b. Mo\u017ce nie eksploduje, wybucha przedwcze\u015bnie lub jest pot\u0119\u017cniejsza i bardziej niestabilna, ni\u017c zak\u0142ada\u0142e\u015b. MG wykonuje Ruch. ",
             "options": "",
             "id": "Expert\u00b7e en explosifs"
         },
         {
             "name": "Przygotowany ",
             "effect": "Za ka\u017cdym razem, gdy szukasz informacji o jakim\u015b miejscu, zanim si\u0119 do niego udasz, rzu\u0107 +Rozum: ",
-            "completesuccess": "Konstrukcja lub naprawa si\u0119 udaje; mo\u017cesz wybra\u0107 dwie z poni\u017cby wykona\u0107 mi\u0119kki lub twardy Ruch zwi\u0105zany z danym miejscem. ",
-            "partialsuccess": "Konstrukcja ma niewielkie wady. Mo\u017cesz wybra\u0107 jedn\u0105 z poni\u017c",
-            "failure": "<ul><li>Ko\u0144czysz konstrukcj\u0119 (lub napraw\u0119), ale ma ona powa\u017cne wady, w tym  </li><li> Znajd\u017a lub stw\u00f3rz map\u0119 miejsca. </li><li> Znajd\u017a informacje na temat wszystkich system\u00f3w bezpiecze\u0144stwa lub innych przeszk\u00f3d.  </li><li> Wytrzyma\u0142a: Konstrukcja mo\u017ce zosta\u0107 wielokrotnie wykorzystana i nie psuje  </li><li> Wska\u017c po\u0142o\u017cenie czego\u015b, czego szukasz.  </li><li> Efektywna: Konstrukcja daje +1 do rzut\u00f3w, w kt\u00f3rych jest u\u017cywana zgodnie </li><li> Efektywna: Konstrukcja daje +1 do rzut\u00f3w, w kt\u00f3rych jest u\u017cywana zgodnie</li></ul>",
+            "completesuccess": "Wybierz trzy mo\u017cliwo\u015bci. ",
+            "partialsuccess": "Wybierz dwie mo\u017cliwo\u015bci. ",
+            "failure": "Wybierz jedn\u0105 z mo\u017cliwo\u015bci. Przeoczy\u0142e\u015b co\u015b kluczowego. MG zyskuje 1 punkt Wp\u0142ywu, kt\u00f3ry mo\u017ce wykorzy- sta\u0107 w dowolnym momencie p\u00f3\u017aniej, by wykona\u0107 mi\u0119kki lub twardy Ruch zwi\u0105zany z danym miejscem.",
             "options": "",
             "id": "Pr\u00e9voyant\u00b7e"
         },
