@@ -15,7 +15,7 @@
             "completesuccess": "Wybierz do trzech mo\u017cliwo\u015bci w dowolnym momencie sceny. ",
             "partialsuccess": "Wybierz do dw\u00f3ch mo\u017cliwo\u015bci w dowolnym momencie sceny. ",
             "failure": "Wybierz jedn\u0105 mo\u017cliwo\u015b\u0107 w dowolnym momencie sceny, ale istota zainteresowania jest inna, ni\u017c si\u0119 spodziewa\u0142e\u015b. MG wykonuje Ruch. ",
-            "options": "<ul><li> </li><li> Dana osoba musi ci\u0119 zaliczy\u0107; porzuci swoje normalne zachowanie, byle to osi\u0105gn\u0105\u0107. </li><li> Dana osoba jest rozproszona z twojego powodu tak d\u0142ugo, jak d\u0142ugo znajdujesz si\u0119 w pobli\u017cu, i nie mo\u017ce skupi\u0107 si\u0119 na niczym innym.  </li><li> Dana osoba staje si\u0119 zazdrosna o twoj\u0105 uwag\u0119 i usi\u0142uje pozby\u0107 si\u0119 konkurencji wszelkimi dost\u0119pnymi \u015brodkami. </li><li> Sprawiasz, \u017ce dana osoba staje si\u0119 niepewna i sko\u0142owana. Otrzymujesz +1 do wszystkich rzut\u00f3w przeciw niej podczas tej sceny. </li></ul>",
+            "options": "<ul><li> Dana osoba musi ci\u0119 zaliczy\u0107; porzuci swoje normalne zachowanie, byle to osi\u0105gn\u0105\u0107. </li><li> Dana osoba jest rozproszona z twojego powodu tak d\u0142ugo, jak d\u0142ugo znajdujesz si\u0119 w pobli\u017cu, i nie mo\u017ce skupi\u0107 si\u0119 na niczym innym.  </li><li> Dana osoba staje si\u0119 zazdrosna o twoj\u0105 uwag\u0119 i usi\u0142uje pozby\u0107 si\u0119 konkurencji wszelkimi dost\u0119pnymi \u015brodkami. </li><li> Sprawiasz, \u017ce dana osoba staje si\u0119 niepewna i sko\u0142owana. Otrzymujesz +1 do wszystkich rzut\u00f3w przeciw niej podczas tej sceny. </li></ul>",
             "id": "\u00c9rotique"
         },
         {
@@ -24,7 +24,7 @@
             "completesuccess": "Podczas tej sesji gry wybierz do trzech mo\u017cliwo\u015bci. ",
             "partialsuccess": "Podczas tej sesji gry wybierz do dw\u00f3ch mo\u017cliwo\u015bci. ",
             "failure": "Podczas tej sesji gry mo\u017cesz wybra\u0107 jedn\u0105 mo\u017cliwo\u015b\u0107; przyci\u0105gasz te\u017c uwag\u0119 ze strony prze\u015bladowc\u00f3w, rywali z bran\u017cy, konkurent\u00f3w czy wrogich si\u0142. MG wykonuje za nich Ruch podczas sesji. ",
-            "options": "<ul><li> </li><li> Wp\u0142y\u0144 na kogo\u015b, kto s\u0142ysza\u0142 o twoim naukowym autorytecie, tak jakby\u015b wyrzuci\u0142 (15+). </li><li> Zdob\u0105d\u017a dost\u0119p do zasob\u00f3w uniwersytetu takich jak laboratoria i wyposa\u017cenie, badacze czy archiwa.  </li><li> Wyg\u0142o\u015b zdanie o kim\u015b lub o czym\u015b w mediach masowych.  </li><li> Zdob\u0105d\u017a kontakty do ludzi i dost\u0119p do miejsc pod pretekstem prowadzenia bada\u0144. </li></ul>",
+            "options": "<ul><li> Wp\u0142y\u0144 na kogo\u015b, kto s\u0142ysza\u0142 o twoim naukowym autorytecie, tak jakby\u015b wyrzuci\u0142 (15+). </li><li> Zdob\u0105d\u017a dost\u0119p do zasob\u00f3w uniwersytetu takich jak laboratoria i wyposa\u017cenie, badacze czy archiwa.  </li><li> Wyg\u0142o\u015b zdanie o kim\u015b lub o czym\u015b w mediach masowych.  </li><li> Zdob\u0105d\u017a kontakty do ludzi i dost\u0119p do miejsc pod pretekstem prowadzenia bada\u0144. </li></ul>",
             "id": "Autorit\u00e9"
         },
         {
@@ -42,7 +42,7 @@
             "completesuccess": "Wybierz do trzech mo\u017cliwo\u015bci. ",
             "partialsuccess": "Wybierz do dw\u00f3ch mo\u017cliwo\u015bci. ",
             "failure": "Wybierz jedn\u0105 mo\u017cliwo\u015b\u0107, ale wi\u0105\u017ce si\u0119 ona z zaci\u0105gni\u0119ciem d\u0142ugu. Trzeba go b\u0119dzie sp\u0142aci\u0107 w wybranym przez MG momencie opowie\u015bci. ",
-            "options": "<ul><li> </li><li> Popro\u015b o przys\u0142ug\u0119 kogo\u015b z administracji kraju (np. o wypuszczenie z wi\u0119zienia, pomini\u0119cie odprawy celnej lub pomoc od policji).  </li><li> Zdob\u0105d\u017a dost\u0119p do miejsca niedost\u0119pnego dla postronnych.  </li><li> Zlokalizuj lub wy\u015bled\u017a ukrywaj\u0105c\u0105 si\u0119 lub zaginion\u0105 osob\u0119. </li><li> Zlokalizuj lub wy\u015bled\u017a ukrywaj\u0105c\u0105 si\u0119 lub zaginion\u0105 osob\u0119.</li></ul>",
+            "options": "<ul><li> Popro\u015b o przys\u0142ug\u0119 kogo\u015b z administracji kraju (np. o wypuszczenie z wi\u0119zienia, pomini\u0119cie odprawy celnej lub pomoc od policji).  </li><li> Zdob\u0105d\u017a dost\u0119p do miejsca niedost\u0119pnego dla postronnych.  </li><li> Zlokalizuj lub wy\u015bled\u017a ukrywaj\u0105c\u0105 si\u0119 lub zaginion\u0105 osob\u0119. </li><li> Zlokalizuj lub wy\u015bled\u017a ukrywaj\u0105c\u0105 si\u0119 lub zaginion\u0105 osob\u0119.</li></ul>",
             "id": "\u00c9ducation d\u2019\u00e9lite"
         },
         {
@@ -51,7 +51,7 @@
             "completesuccess": "Wybierz jedn\u0105 z mo\u017cliwo\u015bci. ",
             "partialsuccess": "<ul><li>Wybierz jedn\u0105 mo\u017cliwo\u015bci; MG za\u015b wybiera jedno z poni\u017cszych:  </li><li> Osoba ta dostaje obsesji na twoim punkcie. </li><li> Osoba pragnie ci\u0119 tu i teraz. </li></ul>",
             "failure": "Wp\u0142ywasz na t\u0119 osob\u0119, ale w nieprzewidziany spos\u00f3b lub zainteresowa\u0142a si\u0119 ona tob\u0105 tak bardzo, \u017ce to a\u017c nieprzyjemne \u2013 ty wybierasz. MG wykonuje Ruch. ",
-            "options": "<ul><li> </li><li> Dana osoba jest tob\u0105 zainteresowana.  </li><li> Dana osoba zapomina o swoich troskach, gdy obcuje z twoj\u0105 sztuk\u0105. </li><li> Dana osoba zapomina o swoichni\u0119ta twoj\u0105 sztuk\u0105 i zapomina o swoim otoczeniu. </li></ul>",
+            "options": "<ul><li> Dana osoba jest tob\u0105 zainteresowana.  </li><li> Dana osoba zapomina o swoich troskach, gdy obcuje z twoj\u0105 sztuk\u0105. </li><li> Dana osoba zapomina o swoichni\u0119ta twoj\u0105 sztuk\u0105 i zapomina o swoim otoczeniu. </li></ul>",
             "id": "Fascination"
         },
         {
@@ -78,7 +78,7 @@
             "completesuccess": "Zadaj do trzech pyta\u0144. ",
             "partialsuccess": "Zadaj jedno pytanie. ",
             "failure": "Zadaj jedno pytanie, ale kto\u015b stanie si\u0119 podejrzliwy lub agresywny. MG wykonuje Ruch. ",
-            "options": "<ul><li> </li><li> Co wiesz o [budynku/osobie/organizacji/ zdarzeniu]?  </li><li> Jakie plotki kr\u0105\u017c\u0105 teraz po ulicach?  </li><li> Jak mog\u0119 si\u0119 dosta\u0107 do [miejsca]? </li><li> Jakie plotki kr\u0105\u017c\u0105 teraz po ulicach?</li><li> Kto w tym mie\u015bcie m\u00f3g\u0142by wiedzie\u0107 wi\u0119cej o tej nadnaturalnej rzeczy? </li></ul>",
+            "options": "<ul><li> Co wiesz o [budynku/osobie/organizacji/ zdarzeniu]?  </li><li> Jakie plotki kr\u0105\u017c\u0105 teraz po ulicach?  </li><li> Jak mog\u0119 si\u0119 dosta\u0107 do [miejsca]? </li><li> Jakie plotki kr\u0105\u017c\u0105 teraz po ulicach?</li><li> Kto w tym mie\u015bcie m\u00f3g\u0142by wiedzie\u0107 wi\u0119cej o tej nadnaturalnej rzeczy? </li></ul>",
             "id": "Contacts dans les rues"
         },
         {
@@ -87,7 +87,7 @@
             "completesuccess": "Mo\u017cesz zada\u0107 trzy pytania z poni\u017cszej listy. ",
             "partialsuccess": "Mo\u017cesz zada\u0107 dwa pytania z poni\u017cszej listy. ",
             "failure": "Mo\u017cesz zada\u0107 jedno pytanie z poni\u017cszej listy, ale osoba, o kt\u00f3r\u0105 pytasz, dowiaduje si\u0119 o tym. MG wykonuje Ruch. ",
-            "options": "<ul><li> </li><li> Jakimi zasobami dysponuje ta osoba?  </li><li> Z kim ma uk\u0142ady biznesowe?  </li><li> Gdzie mog\u0119 j\u0105 znale\u017a\u0107?  </li><li> Czego chce? </li><li> Z kim ma uk\u0142ady biznesowe?</li><li> Czego chce?</li></ul>",
+            "options": "<ul><li> Jakimi zasobami dysponuje ta osoba?  </li><li> Z kim ma uk\u0142ady biznesowe?  </li><li> Gdzie mog\u0119 j\u0105 znale\u017a\u0107?  </li><li> Czego chce? </li><li> Z kim ma uk\u0142ady biznesowe?</li><li> Czego chce?</li></ul>",
             "id": "R\u00e9seau"
         },
         {
@@ -96,7 +96,7 @@
             "completesuccess": "Wybierz do dw\u00f3ch mo\u017cliwo\u015bci w dowolnym momencie sceny. ",
             "partialsuccess": "Wybierz jedn\u0105 z mo\u017cliwo\u015bci w dowolnym momencie sceny. ",
             "failure": "Wybierz jedn\u0105 z mo\u017cliwo\u015bci. Sprawy si\u0119 gmatwaj\u0105 lub pojawia si\u0119 zagro\u017cenie. MG wykonuje Ruch. ",
-            "options": "<ul><li> </li><li> Ludzie chc\u0105 zobaczy\u0107 wi\u0119cej twoich dzie\u0142 sztuki.  </li><li> Ludzie do\u015bwiadczaj\u0105 emocji, jak\u0105 chcesz przekaza\u0107 (np. z\u0142o\u015b\u0107, \u017cal, strach, rado\u015b\u0107, \u017c\u0105dza itd.).  </li><li> Ludzie podziwiaj\u0105 ci\u0119 (otrzymujesz +1 do wszystkich test\u00f3w w stosunku do publiczno\u015bci na czas tej sceny). </li><li> Ludzie do\u015bwiadczaj\u0105 emocji, jak\u0105 chcesz przekaza\u0107 (np. z\u0142o\u015b\u0107, \u017cal,</li><li> Uwaga ludzi skupia si\u0119 wy\u0142\u0105cznie na tobie przez ca\u0142y czas wyst\u0119pu. </li></ul>",
+            "options": "<ul><li> Ludzie chc\u0105 zobaczy\u0107 wi\u0119cej twoich dzie\u0142 sztuki.  </li><li> Ludzie do\u015bwiadczaj\u0105 emocji, jak\u0105 chcesz przekaza\u0107 (np. z\u0142o\u015b\u0107, \u017cal, strach, rado\u015b\u0107, \u017c\u0105dza itd.).  </li><li> Ludzie podziwiaj\u0105 ci\u0119 (otrzymujesz +1 do wszystkich test\u00f3w w stosunku do publiczno\u015bci na czas tej sceny). </li><li> Ludzie do\u015bwiadczaj\u0105 emocji, jak\u0105 chcesz przekaza\u0107 (np. z\u0142o\u015b\u0107, \u017cal,</li><li> Uwaga ludzi skupia si\u0119 wy\u0142\u0105cznie na tobie przez ca\u0142y czas wyst\u0119pu. </li></ul>",
             "id": "Talent artistique"
         },
         {
@@ -114,7 +114,7 @@
             "completesuccess": "Wybierz do trzech mo\u017cliwo\u015bci i u\u017cyj ich w dowolnym momencie opowie\u015bci. ",
             "partialsuccess": "Wybierz do dw\u00f3ch mo\u017cliwo\u015bci i u\u017cyj ich w dowolnym momencie opowie\u015bci. ",
             "failure": "Wybierz jedn\u0105 z mo\u017cliwo\u015bci i u\u017cyj jej w dowolnym momencie opowie\u015bci, ale sam r\u00f3wnie\u017c zaczynasz co\u015b czu\u0107 do tej osoby. Zwi\u0119ksz Relacj\u0119 z ni\u0105 o +1. ",
-            "options": "<ul><li> </li><li> Dana osoba daje ci co\u015b, czego chcesz.  </li><li> Dana osoba zdradza ci sekret. </li><li> Dana osoba zdradza ci sekret.Zakochani w tobie BN-i nie mog\u0105 ci si\u0119 przeciwstawi\u0107, dop\u00f3ki nie wykorzysta\u0142e\u015b wszystkich swoich mo\u017cliwo\u015bci. W przypadku uwodzenia innego BG wybierasz tylko spo\u015br\u00f3d nast\u0119puj\u0105cych mo\u017cliwo\u015bci:  </li><li> Spraw, \u017ce poczuje si\u0119 \u017ale, \u017ce ci si\u0119 przeciwstawi\u0142 (musi wykona\u0107 Ruch We\u017a si\u0119 w gar\u015b\u0107). </li><li> Czuje si\u0119 szcz\u0119\u015bliwy w twojej obecno\u015bci i zyskuje Stabilno\u015b\u0107 (+2). </li></ul>",
+            "options": "<ul><li> Dana osoba daje ci co\u015b, czego chcesz.  </li><li> Dana osoba zdradza ci sekret. </li><li> Dana osoba zdradza ci sekret.Zakochani w tobie BN-i nie mog\u0105 ci si\u0119 przeciwstawi\u0107, dop\u00f3ki nie wykorzysta\u0142e\u015b wszystkich swoich mo\u017cliwo\u015bci. W przypadku uwodzenia innego BG wybierasz tylko spo\u015br\u00f3d nast\u0119puj\u0105cych mo\u017cliwo\u015bci:  </li><li> Spraw, \u017ce poczuje si\u0119 \u017ale, \u017ce ci si\u0119 przeciwstawi\u0142 (musi wykona\u0107 Ruch We\u017a si\u0119 w gar\u015b\u0107). </li><li> Czuje si\u0119 szcz\u0119\u015bliwy w twojej obecno\u015bci i zyskuje Stabilno\u015b\u0107 (+2). </li></ul>",
             "id": "S\u00e9ducteur\u00b7rice"
         },
         {
@@ -123,7 +123,7 @@
             "completesuccess": "Wybierz trzy mo\u017cliwo\u015bci. Do dw\u00f3ch z nich mo\u017cesz wykorzysta\u0107 p\u00f3\u017aniej w tej scenie. ",
             "partialsuccess": "Wybierz jedn\u0105 z mo\u017cliwo\u015bci.",
             "failure": "Kto\u015b usi\u0142uje wykorzysta\u0107 ciebie i twoje po\u0142o\u017cenie. MG wykonuje Ruch.",
-            "options": "<ul><li> </li><li> Spraw, \u017ce kto\u015b b\u0119dzie chcia\u0142 ci\u0119 chroni\u0107.   </li><li> Spraw, \u017ce agresywna osoba nie b\u0119dzie chcia\u0142a ci\u0119 zrani\u0107. </li><li> Spraw, \u017ce kto\u015b ci si\u0119 zwierzy.</li></ul>",
+            "options": "<ul><li> Spraw, \u017ce kto\u015b b\u0119dzie chcia\u0142 ci\u0119 chroni\u0107.   </li><li> Spraw, \u017ce agresywna osoba nie b\u0119dzie chcia\u0142a ci\u0119 zrani\u0107. </li><li> Spraw, \u017ce kto\u015b ci si\u0119 zwierzy.</li></ul>",
             "id": "Victime perp\u00e9tuelle"
         },
         {
@@ -150,7 +150,7 @@
             "completesuccess": "Mo\u017cesz skorzysta\u0107 z obu poni\u017cszych mo\u017cliwo\u015bci. ",
             "partialsuccess": "Mo\u017cesz skorzysta\u0107 z jednej z poni\u017c- szych mo\u017cliwo\u015bci.",
             "failure": "Lojalno\u015b\u0107 wtyki jest w\u0105tpliwa. Czy mo\u017cesz jej ufa\u0107? MG wykonuje Ruch.",
-            "options": "<ul><li> </li><li> Wtyka przedosta\u0142a si\u0119 do struktur kierowniczych organizacji, jednak jej wp\u0142yw jest ograniczony. </li><li> Wtyka jest ci winna przys\u0142ug\u0119, musisz jednak zrobi\u0107 to, czego od ciebie \u017c\u0105da.</li></ul>",
+            "options": "<ul><li> Wtyka przedosta\u0142a si\u0119 do struktur kierowniczych organizacji, jednak jej wp\u0142yw jest ograniczony. </li><li> Wtyka jest ci winna przys\u0142ug\u0119, musisz jednak zrobi\u0107 to, czego od ciebie \u017c\u0105da.</li></ul>",
             "id": "Espion\u00b7ne\u00b7s"
         },
         {
@@ -186,7 +186,7 @@
             "completesuccess": "Istota bierze ci\u0119 za boga. Wybierz do trzech mo\u017cliwo\u015bci i u\u017cyj ich w dowolnym momencie tej sceny. ",
             "partialsuccess": "Fascynujesz istot\u0119. Wybierz jedn\u0105 z mo\u017cliwo\u015bci. ",
             "failure": "Mo\u017cesz wybra\u0107 jedn\u0105 z mo\u017cliwo\u015bci, ale po jej wykorzystaniu istota pragnie ci\u0119 posi\u0105\u015b\u0107 \u2013 mo\u017ce usi\u0142owa\u0107 ci\u0119 po\u017cre\u0107 lub schwyta\u0107. MG wykonuje Ruch. ",
-            "options": "<ul><li> </li><li> Uspok\u00f3j agresywn\u0105 istot\u0119. </li><li> Rozkazuj istocie i zmu\u015b j\u0105 do pos\u0142usze\u0144stwa. </li></ul>",
+            "options": "<ul><li> Uspok\u00f3j agresywn\u0105 istot\u0119. </li><li> Rozkazuj istocie i zmu\u015b j\u0105 do pos\u0142usze\u0144stwa. </li></ul>",
             "id": "Divin\u00b7e"
         },
         {
@@ -195,7 +195,7 @@
             "completesuccess": "Wybierz dwie r\u00f3\u017cne mo\u017cliwo\u015bci. ",
             "partialsuccess": "Wybierz jedn\u0105 z mo\u017cliwo\u015bci. ",
             "failure": "Wybierz jedn\u0105 z mo\u017cliwo\u015bci; przyci\u0105gasz tak\u017ce niepo\u017c\u0105dan\u0105 uwag\u0119. MG wykonuje Ruch. ",
-            "options": "<ul><li> </li><li> Przyci\u0105gnij uwag\u0119 obcego. Jest ciebie ciekaw i podchodzi. </li><li> Zmie\u0144 nastawienie osoby w stosunku do ciebie z agresywnego na podejrzliwe, z podejrzliwego na neutralne lub z neutralnego na pozytywne.  </li><li> Spraw, \u017ce przeciwnicy b\u0119d\u0105 postrzega\u0107 ci\u0119 jako niegro\u017anego i zignoruj\u0105 na tak d\u0142ugo, jak d\u0142ugo pozostajesz z ty\u0142u i nie zadzia\u0142asz przeciw nim. </li></ul>",
+            "options": "<ul><li> Przyci\u0105gnij uwag\u0119 obcego. Jest ciebie ciekaw i podchodzi. </li><li> Zmie\u0144 nastawienie osoby w stosunku do ciebie z agresywnego na podejrzliwe, z podejrzliwego na neutralne lub z neutralnego na pozytywne.  </li><li> Spraw, \u017ce przeciwnicy b\u0119d\u0105 postrzega\u0107 ci\u0119 jako niegro\u017anego i zignoruj\u0105 na tak d\u0142ugo, jak d\u0142ugo pozostajesz z ty\u0142u i nie zadzia\u0142asz przeciw nim. </li></ul>",
             "id": "Aura charismatique"
         },
         {
@@ -204,7 +204,7 @@
             "completesuccess": "Istota zostaje odes\u0142ana. Wybierz dwie mo\u017cliwo\u015bci. ",
             "partialsuccess": "Istota zostaje odes\u0142ana. Wybierz jedn\u0105 z mo\u017cliwo\u015bci. ",
             "failure": "Istota opiera si\u0119 odes\u0142aniu i wydarza si\u0119 co\u015b okropnego \u2013 na przyk\u0142ad op\u0119tuje ci\u0119. MG wykonuje Ruch. ",
-            "options": "<ul><li> </li><li> Nikt nie ucierpia\u0142 podczas rytua\u0142u.  </li><li> Istota nie pojawi si\u0119 ponownie p\u00f3\u017aniej. </li><li> Istota nie pojawi si\u0119 ponownie p\u00f3\u017aniej.</li></ul>",
+            "options": "<ul><li> Nikt nie ucierpia\u0142 podczas rytua\u0142u.  </li><li> Istota nie pojawi si\u0119 ponownie p\u00f3\u017aniej. </li><li> Istota nie pojawi si\u0119 ponownie p\u00f3\u017aniej.</li></ul>",
             "id": "Exorciste"
         },
         {
@@ -222,7 +222,7 @@
             "completesuccess": "Wybierz dwie mo\u017cliwo\u015bci. ",
             "partialsuccess": "Wybierz jedn\u0105 z mo\u017cliwo\u015bci. ",
             "failure": "Wybierz jedn\u0105 z mo\u017cliwo\u015bci; b\u00f3l w ko\u0144cu ci\u0119 pokona i stracisz przytomno\u015b\u0107. ",
-            "options": "<ul><li> </li><li> Orientujesz si\u0119, jak przebi\u0107 os\u0142on\u0119 przeciwnika (otrzymujesz +1 do wykonania przeciw niemu Ruchu Przyst\u0105p do walki).  </li><li> Odnajdujesz s\u0142aby punkt wroga (zadaj +1 punkt Obra\u017ce\u0144 za ka\u017cdym razem, gdy Przyst\u0119pujesz do walki z tym przeciwnikiem).  </li><li> Dostrzegasz prawid\u0142owo\u015bci w atakach przeciwnika (otrzymujesz +1 do Ruchu Uniknij Obra\u017ce\u0144 za ka\u017cdym razem, gdy ci\u0119 atakuje). Powy\u017csze efekty utrzymuj\u0105 si\u0119 na sta\u0142e dla danego przeciwnika. </li></ul>",
+            "options": "<ul><li> Orientujesz si\u0119, jak przebi\u0107 os\u0142on\u0119 przeciwnika (otrzymujesz +1 do wykonania przeciw niemu Ruchu Przyst\u0105p do walki).  </li><li> Odnajdujesz s\u0142aby punkt wroga (zadaj +1 punkt Obra\u017ce\u0144 za ka\u017cdym razem, gdy Przyst\u0119pujesz do walki z tym przeciwnikiem).  </li><li> Dostrzegasz prawid\u0142owo\u015bci w atakach przeciwnika (otrzymujesz +1 do Ruchu Uniknij Obra\u017ce\u0144 za ka\u017cdym razem, gdy ci\u0119 atakuje). Powy\u017csze efekty utrzymuj\u0105 si\u0119 na sta\u0142e dla danego przeciwnika. </li></ul>",
             "id": "Voix de douleur"
         },
         {
@@ -231,7 +231,7 @@
             "completesuccess": "Wybierz do trzech mo\u017cliwo\u015bci i u\u017cyj ich w dowolnym momencie sceny. ",
             "partialsuccess": "Wybierz do dw\u00f3ch mo\u017cliwo\u015bci i u\u017cyj ich w dowolnym momencie sceny. ",
             "failure": "Wybierz jedn\u0105 z mo\u017cliwo\u015bci i u\u017cyj jej w dowolnym momencie sceny. T\u0142um staje si\u0119 jednak niemo\u017cliwy do okie\u0142znania i sk\u0142onny do agresji; nie mo\u017cna go te\u017c rozproszy\u0107. MG wykonuje Ruch. ",
-            "options": "<ul><li> </li><li> Zach\u0119\u0107 innych ludzi, by przy\u0142\u0105czyli si\u0119 do t\u0142umu.  </li><li> Spraw, \u017ce ludzie z t\u0142umu oddadz\u0105 ci wszystkie swoje warto\u015bciowe przedmioty.  </li><li> Zjednocz t\u0142um, by dla ciebie walczy\u0142. </li><li> Spraw, \u017ce ludzie z t\u0142umu oddadz\u0105 ci wszystkie swoje</li><li> Wywo\u0142aj w t\u0142umie niepohamowane emocje: seksualn\u0105 \u017c\u0105dz\u0119, gniew, smutek, pragnienie przemocy, hojno\u015b\u0107 lub rado\u015b\u0107, w zale\u017cno\u015bci od tego, jakie idee mu zaszczepiasz.  </li><li> Spraw, \u017ce t\u0142um rozejdzie si\u0119 spokojnie do swoich zwyczajnych zaj\u0119\u0107. </li></ul>",
+            "options": "<ul><li> Zach\u0119\u0107 innych ludzi, by przy\u0142\u0105czyli si\u0119 do t\u0142umu.  </li><li> Spraw, \u017ce ludzie z t\u0142umu oddadz\u0105 ci wszystkie swoje warto\u015bciowe przedmioty.  </li><li> Zjednocz t\u0142um, by dla ciebie walczy\u0142. </li><li> Spraw, \u017ce ludzie z t\u0142umu oddadz\u0105 ci wszystkie swoje</li><li> Wywo\u0142aj w t\u0142umie niepohamowane emocje: seksualn\u0105 \u017c\u0105dz\u0119, gniew, smutek, pragnienie przemocy, hojno\u015b\u0107 lub rado\u015b\u0107, w zale\u017cno\u015bci od tego, jakie idee mu zaszczepiasz.  </li><li> Spraw, \u017ce t\u0142um rozejdzie si\u0119 spokojnie do swoich zwyczajnych zaj\u0119\u0107. </li></ul>",
             "id": "Voix de folie"
         },
         {
@@ -240,7 +240,7 @@
             "completesuccess": "Wybierz do trzech mo\u017cliwo\u015bci. Do dw\u00f3ch z nich mo\u017cesz zostawi\u0107 na p\u00f3\u017aniej do wykorzystania w tej scenie. ",
             "partialsuccess": "Wybierz do dw\u00f3ch mo\u017cliwo\u015bci. Jedn\u0105 z nich mo\u017cesz zostawi\u0107 na p\u00f3\u017aniej do wykorzystana w tej scenie. ",
             "failure": "Wybierz jedn\u0105 z mo\u017cliwo\u015bci. Masz r\u00f3wnie\u017c niespodziewan\u0105 wizj\u0119 lub przyci\u0105gasz uwag\u0119. MG wykonuje Ruch. ",
-            "options": "<ul><li> </li><li> Dowiedz si\u0119 czego\u015b o prawdziwej naturze jakiej\u015b istoty.  </li><li> Ustal, czy co\u015b jest magiczne. </li><li> Ustal, czy co\u015b jest magiczne.</li></ul>",
+            "options": "<ul><li> Dowiedz si\u0119 czego\u015b o prawdziwej naturze jakiej\u015b istoty.  </li><li> Ustal, czy co\u015b jest magiczne. </li><li> Ustal, czy co\u015b jest magiczne.</li></ul>",
             "id": "Intuition magique"
         },
         {
@@ -249,7 +249,7 @@
             "completesuccess": "Wybierz do trzech mo\u017cliwo\u015bci. Do dw\u00f3ch z nich mo\u017cesz zostawi\u0107 na p\u00f3\u017aniej do wykorzystania w tej scenie. ",
             "partialsuccess": "Wybierz jedn\u0105 z mo\u017cliwo\u015bci. ",
             "failure": "Wybierz jedn\u0105 z mo\u017cliwo\u015bci. Kto\u015b z obecnych dostaje obsesji: chce ci\u0119 mie\u0107, zatrzyma\u0107 i posiada\u0107 tylko dla siebie. MG wykonuje Ruch. ",
-            "options": "<ul><li> </li><li> Ludzie zapominaj\u0105 o tym, co robi\u0105, i mog\u0105 tylko wpatrywa\u0107 si\u0119 w ciebie.  </li><li> Przyci\u0105gnij kogo\u015b do siebie. </li><li> Przyci\u0105gnij kogo\u015b do siebie.</li></ul>",
+            "options": "<ul><li> Ludzie zapominaj\u0105 o tym, co robi\u0105, i mog\u0105 tylko wpatrywa\u0107 si\u0119 w ciebie.  </li><li> Przyci\u0105gnij kogo\u015b do siebie. </li><li> Przyci\u0105gnij kogo\u015b do siebie.</li></ul>",
             "id": "Attraction magn\u00e9tique"
         },
         {
@@ -303,7 +303,7 @@
             "completesuccess": "Wybierz do trzech mo\u017cliwo\u015bci i u\u017cyj ich w dowolnym momencie sesji. ",
             "partialsuccess": "Wybierz do dw\u00f3ch mo\u017cliwo\u015bci i u\u017cyj ich w dowolnym momencie sesji. ",
             "failure": "Tw\u00f3j instynkt nie dzia\u0142a w niebezpiecznej sytuacji. MG wykonuje Ruch w kt\u00f3rym\u015b momencie sesji. ",
-            "options": "<ul><li> </li><li> Dzia\u0142aj pierwszy w gro\u017anej sytuacji. Mo\u017ce to obejmowa\u0107 nawet dzia\u0142anie uprzedzaj\u0105ce atak z zaskoczenia.  </li><li> Wyczuj, czy kto\u015b \u017cyczy ci \u017ale, czy dobrze. </li><li> Odkryj lub wyczuj wskaz\u00f3wk\u0119 lub \u015blad, gdy nie wiesz, co robi\u0107. </li></ul>",
+            "options": "<ul><li> Dzia\u0142aj pierwszy w gro\u017anej sytuacji. Mo\u017ce to obejmowa\u0107 nawet dzia\u0142anie uprzedzaj\u0105ce atak z zaskoczenia.  </li><li> Wyczuj, czy kto\u015b \u017cyczy ci \u017ale, czy dobrze. </li><li> Odkryj lub wyczuj wskaz\u00f3wk\u0119 lub \u015blad, gdy nie wiesz, co robi\u0107. </li></ul>",
             "id": "Sixi\u00e8me sens"
         },
         {
@@ -330,7 +330,7 @@
             "completesuccess": "Wybierz dwie mo\u017cliwo\u015bci. ",
             "partialsuccess": "Wybierz jedn\u0105 z mo\u017cliwo\u015bci. ",
             "failure": "Spojrza\u0142e\u015b zbyt g\u0142\u0119boko w otch\u0142a\u0144. Wybierz jedn\u0105 z mo\u017cliwo\u015bci, ale do\u015bwiadczasz r\u00f3wnie\u017c straszliwych wizji lub spotykasz co\u015b strasznego. MG wykonuje Ruch. ",
-            "options": "<ul><li> </li><li> Przywabienie: Nak\u0142o\u0144 jak\u0105\u015b istot\u0119, by do ciebie przyby\u0142a.  </li><li> Wizje: Przejrzyj Iluzj\u0119 i skieruj wzrok na konkretne, wybrane przez ciebie miejsce. </li><li> Wizje: Przejrzyj Iluzj\u0119 i skieruj wzrok na kon-si\u0119 znajdujesz, jest co\u015b dziwnego lub nadnaturalnego. Odpowied\u017a ujawni si\u0119 poprzez twoj\u0105 sztuk\u0119. </li></ul>",
+            "options": "<ul><li> Przywabienie: Nak\u0142o\u0144 jak\u0105\u015b istot\u0119, by do ciebie przyby\u0142a.  </li><li> Wizje: Przejrzyj Iluzj\u0119 i skieruj wzrok na konkretne, wybrane przez ciebie miejsce. </li><li> Wizje: Przejrzyj Iluzj\u0119 i skieruj wzrok na kon-si\u0119 znajdujesz, jest co\u015b dziwnego lub nadnaturalnego. Odpowied\u017a ujawni si\u0119 poprzez twoj\u0105 sztuk\u0119. </li></ul>",
             "id": "Inspiration interdite"
         },
         {
@@ -339,7 +339,7 @@
             "completesuccess": "W dowolnym momencie sesji mo\u017cesz wybra\u0107 do trzech mo\u017cliwo\u015bci. ",
             "partialsuccess": "W dowolnym momencie sesji mo\u017cesz wybra\u0107 jedn\u0105 z mo\u017cliwo\u015bci. po\u017c\u0105daniem. Nie mo\u017ce si\u0119 powstrzyma\u0107 przed pr\u00f3b\u0105 po\u017carcia lub uwi\u0119zienia ci\u0119. ",
             "failure": "W dowolnym momencie sesji mo\u017cesz wybra\u0107 jedn\u0105 z mo\u017cliwo\u015bci, ale ",
-            "options": "<ul><li> </li><li> Popro\u015b stworzenie o pomoc w rozwi\u0105zaniu problemu.  </li><li> Ujrzyj prawdziw\u0105 posta\u0107 jakiego\u015b stworzenia lub miejsca. </li><li> Popro\u015b stworzenie o co\u015b,  </li><li> Rozprosz magi\u0119, kt\u00f3ra na ciebie wp\u0142ywa. czego pragniesz. </li><li> Rozprosz magi\u0119, kt\u00f3ra na ciebie wp\u0142ywa.</li></ul>",
+            "options": "<ul><li> Popro\u015b stworzenie o pomoc w rozwi\u0105zaniu problemu.  </li><li> Ujrzyj prawdziw\u0105 posta\u0107 jakiego\u015b stworzenia lub miejsca. </li><li> Popro\u015b stworzenie o co\u015b,  </li><li> Rozprosz magi\u0119, kt\u00f3ra na ciebie wp\u0142ywa. czego pragniesz. </li><li> Rozprosz magi\u0119, kt\u00f3ra na ciebie wp\u0142ywa.</li></ul>",
             "id": "Charmeur\u00b7euse de serpents"
         },
         {
@@ -348,7 +348,7 @@
             "completesuccess": "Wybierz dwie mo\u017cliwo\u015bci.",
             "partialsuccess": "Wybierz jedn\u0105 z mo\u017cliwo\u015bci.",
             "failure": "Zara\u017caj\u0105 ci\u0119 l\u0119ki i objawiaj\u0105 ci si\u0119 Mroczne Sekrety twojej niedosz\u0142ej ofiary. Musisz Wzi\u0105\u0107 si\u0119 w gar\u015b\u0107. ",
-            "options": "<ul><li> </li><li> Wywo\u0142aj u ofiary czasow\u0105 psychoz\u0119, w kt\u00f3rej nawiedzaj\u0105 j\u0105 jej zada\u0107 jedno dodatkowe pytanie niezale\u017cnie od wyniku rzutu. w\u0142asne l\u0119ki (tylko BN-i).  </li><li> Wprowad\u017a Komplikacj\u0119 tej osoby do gry (dotyczy tylko BG, nale\u017cy wykona\u0107 rzut na Komplikacj\u0119).  </li><li> Wp\u0142y\u0144 na jedn\u0105 osob\u0119 wi\u0119cej. </li><li> Wezwij istoty zwi\u0105zane z Ob\u0142\u0119dem, by nawiedza\u0142y zara\u017conych. </li></ul>",
+            "options": "<ul><li> Wywo\u0142aj u ofiary czasow\u0105 psychoz\u0119, w kt\u00f3rej nawiedzaj\u0105 j\u0105 jej zada\u0107 jedno dodatkowe pytanie niezale\u017cnie od wyniku rzutu. w\u0142asne l\u0119ki (tylko BN-i).  </li><li> Wprowad\u017a Komplikacj\u0119 tej osoby do gry (dotyczy tylko BG, nale\u017cy wykona\u0107 rzut na Komplikacj\u0119).  </li><li> Wp\u0142y\u0144 na jedn\u0105 osob\u0119 wi\u0119cej. </li><li> Wezwij istoty zwi\u0105zane z Ob\u0142\u0119dem, by nawiedza\u0142y zara\u017conych. </li></ul>",
             "id": "Folie contagieuse"
         },
         {
@@ -384,7 +384,7 @@
             "completesuccess": "W dowolnym momencie sesji mo\u017cesz wybra\u0107 do trzech mo\u017cliwo\u015bci.",
             "partialsuccess": "W dowolnym momencie sesji mo\u017cesz wybra\u0107 jedn\u0105 z mo\u017cliwo\u015bci.",
             "failure": "W dowolnym momencie sesji mo\u017cesz wybra\u0107 jedn\u0105 z mo\u017cliwo\u015bci, ale w kt\u00f3rym\u015b jej momencie MG wykona Ruch w imieniu istoty.",
-            "options": "<ul><li></li><li> Ujrzyj prawdziw\u0105 posta\u0107 jakiego\u015b stworzenia lub miejsca. </li><li> Rozprosz magi\u0119, kt\u00f3ra na ciebie wp\u0142ywa. </li><li> Wezwij istot\u0119 na pomoc.</li></ul>",
+            "options": "<ul><li> Ujrzyj prawdziw\u0105 posta\u0107 jakiego\u015b stworzenia lub miejsca. </li><li> Rozprosz magi\u0119, kt\u00f3ra na ciebie wp\u0142ywa. </li><li> Wezwij istot\u0119 na pomoc.</li></ul>",
             "id": "Li\u00e9\u00b7e"
         },
         {
@@ -402,7 +402,7 @@
             "completesuccess": "Wybierz trzy mo\u017cliwo\u015bci. Do dw\u00f3ch z nich mo\u017cesz zostawi\u0107 do wykorzystania p\u00f3\u017aniej. ",
             "partialsuccess": "Wybierz dwie mo\u017cliwo\u015bci. Jedn\u0105 z nich mo\u017cesz zostawi\u0107 do wykorzystania p\u00f3\u017aniej. ",
             "failure": "Wybierz jedn\u0105 z mo\u017cliwo\u015bci, ale co\u015b idzie niezgodnie z planem. MG wykonuje Ruch. ",
-            "options": "<ul><li> </li><li> Uspok\u00f3j kogo\u015b, kto robi si\u0119 podejrzliwy. </li><li> Zdob\u0105d\u017a dost\u0119p do miejsca, do kt\u00f3rego nie maj\u0105 wst\u0119pu osoby z zewn\u0105trz.  </li><li> Spraw, \u017ce kto\u015b opowie ci o tajemnicach tego miejsca. </li><li> Spraw, \u017ce kto\u015b ci w czym\u015b pomo\u017ce. </li></ul>",
+            "options": "<ul><li> Uspok\u00f3j kogo\u015b, kto robi si\u0119 podejrzliwy. </li><li> Zdob\u0105d\u017a dost\u0119p do miejsca, do kt\u00f3rego nie maj\u0105 wst\u0119pu osoby z zewn\u0105trz.  </li><li> Spraw, \u017ce kto\u015b opowie ci o tajemnicach tego miejsca. </li><li> Spraw, \u017ce kto\u015b ci w czym\u015b pomo\u017ce. </li></ul>",
             "id": "Resquilleur\u00b7euse"
         },
         {
@@ -420,7 +420,7 @@
             "completesuccess": "Wybierz trzy mo\u017cliwo\u015bci. Do dw\u00f3ch z nich mo\u017cesz zachowa\u0107 do wykorzystania p\u00f3\u017aniej. ",
             "partialsuccess": "Wybierz dwie mo\u017cliwo\u015bci. Jedn\u0105 z nich mo\u017cesz zachowa\u0107 do wykorzystania p\u00f3\u017aniej. ",
             "failure": "Wybierz jedn\u0105 z mo\u017cliwo\u015bci. Twoje wspomnienia i Komplikacje wp\u0142ywaj\u0105 na zwierz\u0119. MG wykonuje Ruch. ",
-            "options": "<ul><li> </li><li> Spraw, \u017ce zwierz\u0119 zadzia\u0142a przeciw w\u0142asnemu instynktowi.  </li><li> Spraw, \u017ce zwierz\u0119 b\u0119dzie za tob\u0105 pod\u0105\u017ca\u0107. </li><li> Spraw, \u017ce zwierz\u0119 b\u0119dzie za tob\u0105 pod\u0105\u017ca\u0107.</li></ul>",
+            "options": "<ul><li> Spraw, \u017ce zwierz\u0119 zadzia\u0142a przeciw w\u0142asnemu instynktowi.  </li><li> Spraw, \u017ce zwierz\u0119 b\u0119dzie za tob\u0105 pod\u0105\u017ca\u0107. </li><li> Spraw, \u017ce zwierz\u0119 b\u0119dzie za tob\u0105 pod\u0105\u017ca\u0107.</li></ul>",
             "id": "Ami\u00b7e des b\u00eates"
         },
         {
@@ -429,7 +429,7 @@
             "completesuccess": "Wybierz do dw\u00f3ch mo\u017cliwo\u015bci. Jedn\u0105 z nich mo\u017cesz zostawi\u0107 do wykorzystania p\u00f3\u017aniej w tej scenie. ",
             "partialsuccess": "Wybierz jedn\u0105 z mo\u017cliwo\u015bci. ",
             "failure": "Druga strona co\u015b podejrzewa. MG wykonuje Ruch. ",
-            "options": "<ul><li> </li><li> Dana osoba staje si\u0119 podejrzliwa wobec kogo\u015b, kogo wska\u017cesz. </li><li> Dana osoba uznaje ci\u0119 za sojusznika tak d\u0142ugo, jak d\u0142ugo jej nie zdradzisz (otrzymujesz +1 do wszystkich rzut\u00f3w przeciw niej).  </li><li> Dana osoba ch\u0119tnie wy\u015bwiadczy ci przys\u0142ug\u0119. </li></ul>",
+            "options": "<ul><li> Dana osoba staje si\u0119 podejrzliwa wobec kogo\u015b, kogo wska\u017cesz. </li><li> Dana osoba uznaje ci\u0119 za sojusznika tak d\u0142ugo, jak d\u0142ugo jej nie zdradzisz (otrzymujesz +1 do wszystkich rzut\u00f3w przeciw niej).  </li><li> Dana osoba ch\u0119tnie wy\u015bwiadczy ci przys\u0142ug\u0119. </li></ul>",
             "id": "Rus\u00e9\u00b7e"
         },
         {
@@ -474,7 +474,7 @@
             "completesuccess": "Wybierz dwie mo\u017cliwo\u015bci. Mo\u017cesz wykorzysta\u0107 je w dowolnym momencie sceny. ",
             "partialsuccess": "Wybierz jedn\u0105 z mo\u017cliwo\u015bci. Mo\u017cesz wykorzysta\u0107 j\u0105 w dowolnym momencie sceny. ",
             "failure": "Wybierz jedn\u0105 z mo\u017cliwo\u015bci, ale przyci\u0105gasz te\u017c czyj\u0105\u015b uwag\u0119. MG wykonuje Ruch. ",
-            "options": "<ul><li> </li><li> Znajd\u017a miejsce, w kt\u00f3rym b\u0119dziesz m\u00f3g\u0142 si\u0119 chwilowo bezpiecznie ukry\u0107.  </li><li> Znajd\u017a alternatywn\u0105 drog\u0119, by unikn\u0105\u0107 napotykania ludzi. </li><li> Znajd\u017a alternatywn\u0105 drog\u0119, by unikn\u0105\u0107 napotykania ludzi.ci\u0119 nie zauwa\u017cono. </li></ul>",
+            "options": "<ul><li> Znajd\u017a miejsce, w kt\u00f3rym b\u0119dziesz m\u00f3g\u0142 si\u0119 chwilowo bezpiecznie ukry\u0107.  </li><li> Znajd\u017a alternatywn\u0105 drog\u0119, by unikn\u0105\u0107 napotykania ludzi. </li><li> Znajd\u017a alternatywn\u0105 drog\u0119, by unikn\u0105\u0107 napotykania ludzi.ci\u0119 nie zauwa\u017cono. </li></ul>",
             "id": "Discret\u00b7e"
         },
         {
@@ -483,7 +483,7 @@
             "completesuccess": "Wybierz dwie mo\u017cliwo\u015bci. ",
             "partialsuccess": "Wybierz jedn\u0105 z mo\u017cliwo\u015bci. ",
             "failure": "Niechc\u0105cy si\u0119 ujawniasz, a tw\u00f3j cel mo\u017ce zareagowa\u0107 na atak normalnie. MG wykonuje Ruch. ",
-            "options": "<ul><li> </li><li> Celuj we wra\u017cliwy punkt: Zadaj +1 punkt Obra\u017ce\u0144. </li><li> Og\u0142usz: Je\u015bli celem jest BN, automatycznie traci przytomno\u015b\u0107. Je\u015bli celem jest BG, wykonuje on Ruch Znie\u015b Obra\u017cenia i zostaje unieszkodliwiony przy wyniku (\u20139).  </li><li> Ostro\u017cny: Dzia\u0142asz bezg\u0142o\u015bnie, a je\u015bli tw\u00f3j przeciwnik zginie \u2013 nie zostawiasz \u015blad\u00f3w. </li></ul>",
+            "options": "<ul><li> Celuj we wra\u017cliwy punkt: Zadaj +1 punkt Obra\u017ce\u0144. </li><li> Og\u0142usz: Je\u015bli celem jest BN, automatycznie traci przytomno\u015b\u0107. Je\u015bli celem jest BG, wykonuje on Ruch Znie\u015b Obra\u017cenia i zostaje unieszkodliwiony przy wyniku (\u20139).  </li><li> Ostro\u017cny: Dzia\u0142asz bezg\u0142o\u015bnie, a je\u015bli tw\u00f3j przeciwnik zginie \u2013 nie zostawiasz \u015blad\u00f3w. </li></ul>",
             "id": "Attaque surprise"
         },
         {
@@ -492,7 +492,7 @@
             "completesuccess": "Wybierz dwie mo\u017cliwo\u015bci. 3 ",
             "partialsuccess": "Wybierz jedn\u0105 z mo\u017cliwo\u015bci. ",
             "failure": "Wybierz jedn\u0105 z mo\u017cliwo\u015bci, ale osoba ta staje si\u0119 podejrzliwa wobec twoich motyw\u00f3w. MG wykonuje Ruch. ",
-            "options": "<ul><li> </li><li> Spraw, \u017ce BN nie zauwa\u017cy czego\u015b w swoim bezpo\u015brednim otoczeniu.  </li><li> Spraw, \u017ce BN ujawni co\u015b wa\u017cnego (o szczeg\u00f3\u0142ach opowie MG). </li><li> Spraw, \u017ce BN ujawni co\u015b wa\u017cnego (o szczeg\u00f3\u0142ach opowie MG).</li></ul>",
+            "options": "<ul><li> Spraw, \u017ce BN nie zauwa\u017cy czego\u015b w swoim bezpo\u015brednim otoczeniu.  </li><li> Spraw, \u017ce BN ujawni co\u015b wa\u017cnego (o szczeg\u00f3\u0142ach opowie MG). </li><li> Spraw, \u017ce BN ujawni co\u015b wa\u017cnego (o szczeg\u00f3\u0142ach opowie MG).</li></ul>",
             "id": "Belle\u00b7au parleur\u00b7euse"
         },
         {
@@ -501,7 +501,7 @@
             "completesuccess": "Wybierz dwie mo\u017cliwo\u015bci. ",
             "partialsuccess": "Wybierz jedn\u0105 z mo\u017cliwo\u015bci. ",
             "failure": "Twoja improwizacja pogarsza sytuacj\u0119. MG wykonuje Ruch. ",
-            "options": "<ul><li> </li><li> Wymy\u015bl przekonuj\u0105ce k\u0142amstwo.  </li><li> Znajd\u017a co\u015b, czego mo\u017cesz u\u017cy\u0107 jako broni improwizowanej (2 punkty Obra\u017ce\u0144 r\u0105banych/k\u0142utych/mia\u017cd\u017conych).  </li><li> Schowaj si\u0119 przed \u015bcigaj\u0105cym. </li><li> Znajd\u017a co\u015b, czego mo\u017cesz u\u017cy\u0107 jako broni improwizowanej</li><li> Zastaw pu\u0142apk\u0119, kt\u00f3ra da ci przewag\u0119 zaskoczenia (+2 do pierwszego Ruchu zwi\u0105zanego z atakiem). </li></ul>",
+            "options": "<ul><li> Wymy\u015bl przekonuj\u0105ce k\u0142amstwo.  </li><li> Znajd\u017a co\u015b, czego mo\u017cesz u\u017cy\u0107 jako broni improwizowanej (2 punkty Obra\u017ce\u0144 r\u0105banych/k\u0142utych/mia\u017cd\u017conych).  </li><li> Schowaj si\u0119 przed \u015bcigaj\u0105cym. </li><li> Znajd\u017a co\u015b, czego mo\u017cesz u\u017cy\u0107 jako broni improwizowanej</li><li> Zastaw pu\u0142apk\u0119, kt\u00f3ra da ci przewag\u0119 zaskoczenia (+2 do pierwszego Ruchu zwi\u0105zanego z atakiem). </li></ul>",
             "id": "Improvisateur\u00b7rice"
         },
         {
@@ -537,7 +537,7 @@
             "completesuccess": "Wybierz dwie mo\u017cliwo\u015bci. Jedn\u0105 mo\u017cesz wykorzysta\u0107 p\u00f3\u017aniej. ",
             "partialsuccess": "Wybierz jedn\u0105 z mo\u017cliwo\u015bci. ",
             "failure": "Wybierz jedn\u0105 z mo\u017cliwo\u015bci, ale pojawia si\u0119 te\u017c jakie\u015b utrudnienie, nowe zagro\u017cenie lub trzeba ponie\u015b\u0107 jak\u0105\u015b cen\u0119. MG wykonuje Ruch. ",
-            "options": "<ul><li> </li><li> Pokonaj pozornie niemo\u017cliw\u0105 przeszkod\u0119.  </li><li> Wykonaj pozornie \u015bmiertelny skok bez otrzymywania Obra\u017ce\u0144. </li><li> Wykonaj pozornie \u015bmiertelny skok bez otrzymywa-</li></ul>",
+            "options": "<ul><li> Pokonaj pozornie niemo\u017cliw\u0105 przeszkod\u0119.  </li><li> Wykonaj pozornie \u015bmiertelny skok bez otrzymywania Obra\u017ce\u0144. </li><li> Wykonaj pozornie \u015bmiertelny skok bez otrzymywa-</li></ul>",
             "id": "Parkour"
         },
         {
@@ -546,7 +546,7 @@
             "completesuccess": "Wybierz trzy mo\u017cliwo\u015bci. Mo\u017cesz wykorzysta\u0107 je w dowolnym momencie sceny. ",
             "partialsuccess": "Wybierz dwie mo\u017cliwo\u015bci. Mo\u017cesz wykorzysta\u0107 je w dowolnym momencie sceny. ",
             "failure": "Wybierz jedn\u0105 z mo\u017cliwo\u015bci. Pojawia si\u0119 jaki\u015b problem. MG wykonuje Ruch. ",
-            "options": "<ul><li> </li><li> W kilka chwil otwierasz po cichu zamkni\u0119te drzwi.  </li><li> Unieszkodliwiasz alarm.  </li><li> Otwierasz skrytk\u0119 lub sejf w mniej ni\u017c dwie minuty.  </li><li> Unikasz wykrycia. </li><li> Unieszkodliwiasz alarm.</li><li> Unikasz wykrycia.\u015bciw\u0105 osob\u0105 we w\u0142a\u015bciwym miejscu (np. jeste\u015b tu ochroniarzem). </li></ul>",
+            "options": "<ul><li> W kilka chwil otwierasz po cichu zamkni\u0119te drzwi.  </li><li> Unieszkodliwiasz alarm.  </li><li> Otwierasz skrytk\u0119 lub sejf w mniej ni\u017c dwie minuty.  </li><li> Unikasz wykrycia. </li><li> Unieszkodliwiasz alarm.</li><li> Unikasz wykrycia.\u015bciw\u0105 osob\u0105 we w\u0142a\u015bciwym miejscu (np. jeste\u015b tu ochroniarzem). </li></ul>",
             "id": "Voleur\u00b7euse"
         },
         {
@@ -564,7 +564,7 @@
             "completesuccess": "Mo\u017cesz wykorzysta\u0107 wszystkie trzy poni\u017csze mo\u017cliwo\u015bci. ",
             "partialsuccess": "Wybierz dwie z poni\u017cszych mo\u017cliwo\u015bci. ",
             "failure": "Wybierz jedn\u0105 z mo\u017cliwo\u015bci. Ryzykujesz odkrycie lub mierzysz si\u0119 z niespodziewan\u0105 przeszkod\u0105. MG wykonuje Ruch. ",
-            "options": "<ul><li> </li><li> Opuszczasz miejsce zbrodni niezauwa\u017cony i docierasz do bezpiecznej kryj\u00f3wki w pobli\u017cu. Opisz jak.  </li><li> Nie pozostawi\u0142e\u015b \u017cadnych \u015blad\u00f3w, kt\u00f3re mog\u0105 do ciebie doprowadzi\u0107. </li><li> Nie pozostawi\u0142e\u015b \u017cadnych \u015blad\u00f3w, kt\u00f3re mog\u0105 do cie-nie odnalezione. </li></ul>",
+            "options": "<ul><li> Opuszczasz miejsce zbrodni niezauwa\u017cony i docierasz do bezpiecznej kryj\u00f3wki w pobli\u017cu. Opisz jak.  </li><li> Nie pozostawi\u0142e\u015b \u017cadnych \u015blad\u00f3w, kt\u00f3re mog\u0105 do ciebie doprowadzi\u0107. </li><li> Nie pozostawi\u0142e\u015b \u017cadnych \u015blad\u00f3w, kt\u00f3re mog\u0105 do cie-nie odnalezione. </li></ul>",
             "id": "Strat\u00e9gie de sortie"
         },
         {
@@ -600,7 +600,7 @@
             "completesuccess": "Zadaj trzy pytania z listy poni\u017cej. ",
             "partialsuccess": "Zadaj dwa pytania z listy poni\u017cej. ",
             "failure": "Zadaj jedno pytanie z listy poni\u017cej, ale osoba, kt\u00f3r\u0105 obserwujesz, dostrzega twoje zainteresowanie. MG wykonuje Ruch. ",
-            "options": "<ul><li> </li><li> Sk\u0105d pochodzisz?  </li><li> Czy jeste\u015b zdolny do przemocy?  </li><li> Jak mog\u0119 ci\u0119 uwie\u015b\u0107 lub skusi\u0107?  </li><li> Dlaczego tu jeste\u015b? </li><li> Czy jeste\u015b zdolny do przemocy?</li><li> Dlaczego tu jeste\u015b?</li></ul>",
+            "options": "<ul><li> Sk\u0105d pochodzisz?  </li><li> Czy jeste\u015b zdolny do przemocy?  </li><li> Jak mog\u0119 ci\u0119 uwie\u015b\u0107 lub skusi\u0107?  </li><li> Dlaczego tu jeste\u015b? </li><li> Czy jeste\u015b zdolny do przemocy?</li><li> Dlaczego tu jeste\u015b?</li></ul>",
             "id": "Attentif\u00b7ve aux d\u00e9tails"
         },
         {
@@ -618,7 +618,7 @@
             "completesuccess": "Wybierz trzy mo\u017cliwo\u015bci. Mo\u017cesz u\u017cy\u0107 ich w dowolnym momencie tej sceny. ",
             "partialsuccess": "Wybierz dwie mo\u017cliwo\u015bci. Mo\u017cesz u\u017cy\u0107 ich w dowolnym momencie tej sceny. ",
             "failure": "Wybierz jedn\u0105 z mo\u017cliwo\u015bci, ale teraz to ty jeste\u015b zwierzyn\u0105. MG wykonuje Ruch. ",
-            "options": "<ul><li> </li><li> Zastaw zasadzk\u0119 na wroga (zadaj Obra\u017cenia w\u0142a\u015bciwe twojej broni).  </li><li> Kamufla\u017c (otrzymujesz +2 do Ruchu Dzia\u0142aj pod presj\u0105, gdy si\u0119 ukrywasz). </li><li> Kamufla\u017c (otrzymujesz +2 do Ruchu Dzia\u0142aj poddo Ruchu Uniknij obra\u017ce\u0144 zadawanych broni\u0105 dystansow\u0105). </li></ul>",
+            "options": "<ul><li> Zastaw zasadzk\u0119 na wroga (zadaj Obra\u017cenia w\u0142a\u015bciwe twojej broni).  </li><li> Kamufla\u017c (otrzymujesz +2 do Ruchu Dzia\u0142aj pod presj\u0105, gdy si\u0119 ukrywasz). </li><li> Kamufla\u017c (otrzymujesz +2 do Ruchu Dzia\u0142aj poddo Ruchu Uniknij obra\u017ce\u0144 zadawanych broni\u0105 dystansow\u0105). </li></ul>",
             "id": "Chasseur\u00b7euse"
         },
         {
@@ -636,7 +636,7 @@
             "completesuccess": "Wybierz do trzech mo\u017cliwo\u015bci i u\u017cyj ich, dop\u00f3ki trwa dana sytuacja. ",
             "partialsuccess": "Wybierz do dw\u00f3ch mo\u017cliwo\u015bci i u\u017cyj ich, dop\u00f3ki trwa dana sytuacja. ",
             "failure": "Wybierz jedn\u0105 z mo\u017cliwo\u015bci i u\u017cyj jej, dop\u00f3ki trwa dana sytuacja. Przeoczy\u0142e\u015b jednak co\u015b wa\u017cnego. MG wykonuje Ruch. ",
-            "options": "<ul><li> </li><li> Znajd\u017a wod\u0119 i jedzenie.  </li><li> Pokonaj naturaln\u0105 przeszkod\u0119. </li><li> Znajd\u017a bezpieczne miejsce na kryj\u00f3wk\u0119 i odpoczynek. </li></ul>",
+            "options": "<ul><li> Znajd\u017a wod\u0119 i jedzenie.  </li><li> Pokonaj naturaln\u0105 przeszkod\u0119. </li><li> Znajd\u017a bezpieczne miejsce na kryj\u00f3wk\u0119 i odpoczynek. </li></ul>",
             "id": "Survivaliste"
         },
         {
@@ -645,7 +645,7 @@
             "completesuccess": "Wybierz jedn\u0105 z mo\u017cliwo\u015bci. ",
             "partialsuccess": "Wybierz jedn\u0105 z mo\u017cliwo\u015bci, ale wystawiasz si\u0119 na zagro\u017cenie lub musisz ponie\u015b\u0107 jak\u0105\u015b cen\u0119. ",
             "failure": "Wybierz jedn\u0105 z mo\u017cliwo\u015bci, ale co\u015b idzie bardzo nie tak. MG wykonuje Ruch. ",
-            "options": "<ul><li> </li><li> Wydosta\u0144 si\u0119 z wi\u0119z\u00f3w. </li><li> Omi\u0144 przeszkod\u0119 (stworzenie lub obiekt).  </li><li> Dosta\u0144 si\u0119 do miejsca lub przejd\u017a przez miejsce, kt\u00f3re normalnie by\u0142oby poza zasi\u0119giem. </li></ul>",
+            "options": "<ul><li> Wydosta\u0144 si\u0119 z wi\u0119z\u00f3w. </li><li> Omi\u0144 przeszkod\u0119 (stworzenie lub obiekt).  </li><li> Dosta\u0144 si\u0119 do miejsca lub przejd\u017a przez miejsce, kt\u00f3re normalnie by\u0142oby poza zasi\u0119giem. </li></ul>",
             "id": "Conscience de soi"
         },
         {
@@ -654,7 +654,7 @@
             "completesuccess": "By\u0142e\u015b tu ju\u017c kiedy\u015b. Wybierz dwie mo\u017cliwo\u015bci w dowolnym momencie wizyty. ",
             "partialsuccess": "S\u0142ysza\u0142e\u015b o tym miejscu. Wybierz jedn\u0105 z mo\u017cliwo\u015bci w dowolnym momencie wizyty. ",
             "failure": "By\u0142e\u015b tu ju\u017c kiedy\u015b, ale wydarzy\u0142o si\u0119 co\u015b z\u0142ego. Wybierz jedn\u0105 z mo\u017cliwo\u015bci w dowolnym momencie wizyty. MG wyja\u015bnia, jaki problem tu na ciebie czeka, i wykonuje Ruch. ",
-            "options": "<ul><li> </li><li> Zadaj MG jedno pytanie na temat tego miejsca.  </li><li> Masz w tym miejscu kontakt, kt\u00f3ry za namow\u0105 mo\u017ce ci pom\u00f3c.  </li><li> Masz tu kryj\u00f3wk\u0119, gdzie mo\u017cesz si\u0119 ukry\u0107 i odpocz\u0105\u0107. </li><li> Masz w tym miejscu kontakt, kt\u00f3ry za namow\u0105</li><li> Wiesz co\u015b o tym miejscu. Powiedz innym, co to jest. </li></ul>",
+            "options": "<ul><li> Zadaj MG jedno pytanie na temat tego miejsca.  </li><li> Masz w tym miejscu kontakt, kt\u00f3ry za namow\u0105 mo\u017ce ci pom\u00f3c.  </li><li> Masz tu kryj\u00f3wk\u0119, gdzie mo\u017cesz si\u0119 ukry\u0107 i odpocz\u0105\u0107. </li><li> Masz w tym miejscu kontakt, kt\u00f3ry za namow\u0105</li><li> Wiesz co\u015b o tym miejscu. Powiedz innym, co to jest. </li></ul>",
             "id": "Voyageur\u00b7euse"
         },
         {
@@ -663,7 +663,7 @@
             "completesuccess": "Zadaj trzy pytania. ",
             "partialsuccess": "Zadaj dwa pytania. Przyci\u0105gasz niechcian\u0105 uwag\u0119. ",
             "failure": "Zadaj jedno pytanie. Zosta\u0142e\u015b odkryty. Ci, kt\u00f3rzy maj\u0105 to, czego szukasz, b\u0119d\u0105 ci\u0119 oczekiwa\u0107. MG wykonuje Ruch. ",
-            "options": "<ul><li> </li><li> Kto tutaj posiada informacje, kt\u00f3rych szukam?  </li><li> Gdzie mog\u0119 znale\u017a\u0107 to, czego szukam?  </li><li> Kto mnie obserwuje? </li><li> Gdzie mog\u0119 znale\u017a\u0107 to, czego szukam?</li><li> Czy jest tu jeszcze co\u015b interesuj\u0105cego? </li></ul>",
+            "options": "<ul><li> Kto tutaj posiada informacje, kt\u00f3rych szukam?  </li><li> Gdzie mog\u0119 znale\u017a\u0107 to, czego szukam?  </li><li> Kto mnie obserwuje? </li><li> Gdzie mog\u0119 znale\u017a\u0107 to, czego szukam?</li><li> Czy jest tu jeszcze co\u015b interesuj\u0105cego? </li></ul>",
             "id": "Lire la foule"
         },
         {
@@ -753,7 +753,7 @@
             "completesuccess": "Strzelasz celnie. Wybierz dwie mo\u017cliwo\u015bci. ",
             "partialsuccess": "Strzelasz celnie. Wybierz jedn\u0105 z mo\u017cliwo\u015bci. ",
             "failure": "Kula nie trafi\u0142a tam, gdzie chcia\u0142e\u015b, lub ujawni\u0142e\u015b przeciwnikowi swoj\u0105 pozycj\u0119. Spodziewaj si\u0119 \u015bwiadk\u00f3w, po\u015bcigu ze strony przeciwnik\u00f3w w czasie ucieczki lub innych problem\u00f3w. MG wykonuje Ruch. ",
-            "options": "<ul><li></li><li> Zadajesz +1 punkt Obra\u017ce\u0144. </li><li> Trafiasz w dodatkowy cel. </li><li> Unieruchamiasz tw\u00f3j cel.  </li><li> Sprawiasz, \u017ce cel straci nad czym\u015b kontrol\u0119. </li><li> Trafiasz w dodatkowy cel.</li><li> Sprawiasz, \u017ce cel straci nad czym\u015b kontrol\u0119.</li></ul>",
+            "options": "<ul><li> Zadajesz +1 punkt Obra\u017ce\u0144. </li><li> Trafiasz w dodatkowy cel. </li><li> Unieruchamiasz tw\u00f3j cel.  </li><li> Sprawiasz, \u017ce cel straci nad czym\u015b kontrol\u0119. </li><li> Trafiasz w dodatkowy cel.</li><li> Sprawiasz, \u017ce cel straci nad czym\u015b kontrol\u0119.</li></ul>",
             "id": "Sniper"
         },
         {
@@ -798,7 +798,7 @@
             "completesuccess": "W dowolnym momencie misji wybierz do trzech mo\u017cliwo\u015bci. ",
             "partialsuccess": "W dowolnym momencie misji wybierz do dw\u00f3ch mo\u017cliwo\u015bci. ",
             "failure": "W dowolnym momencie misji wybierz jedn\u0105 z mo\u017cliwo\u015bci. Czego\u015b jednak nie wzi\u0105\u0142e\u015b pod uwag\u0119. MG wykonuje Ruch.",
-            "options": "<ul><li> </li><li> Przypominasz sobie co\u015b, co pomo\u017ce ci w negocjacjach. Zapytaj MG, co to takiego.  </li><li> Masz przedmiot, kt\u00f3rego mo\u017cesz u\u017cy\u0107, by wybrn\u0105\u0107 z trudnej sytuacji. Zapytaj MG, co to jest. </li><li> Przeszed\u0142e\u015b specjalne szkolenie terenowe, kt\u00f3re pomo\u017ce ci w pokonaniu jednej z przeszk\u00f3d. Zapytaj MG, jakie to szkolenie</li></ul>",
+            "options": "<ul><li> Przypominasz sobie co\u015b, co pomo\u017ce ci w negocjacjach. Zapytaj MG, co to takiego.  </li><li> Masz przedmiot, kt\u00f3rego mo\u017cesz u\u017cy\u0107, by wybrn\u0105\u0107 z trudnej sytuacji. Zapytaj MG, co to jest. </li><li> Przeszed\u0142e\u015b specjalne szkolenie terenowe, kt\u00f3re pomo\u017ce ci w pokonaniu jednej z przeszk\u00f3d. Zapytaj MG, jakie to szkolenie</li></ul>",
             "id": "Jamais au d\u00e9pourvu"
         },
         {
@@ -807,7 +807,7 @@
             "completesuccess": "",
             "partialsuccess": "",
             "failure": "",
-            "options": "<ul><li></li><li> archeologia </li><li> ekonomia </li><li> historia </li><li> komparatystyka </li><li> psychologia </li><li> socjologia </li><li> teologia </li><li> (inny).</li></ul>",
+            "options": "<ul><li> archeologia </li><li> ekonomia </li><li> historia </li><li> komparatystyka </li><li> psychologia </li><li> socjologia </li><li> teologia </li><li> (inny).</li></ul>",
             "id": "Expert\u00b7e"
         },
         {
@@ -843,7 +843,7 @@
             "completesuccess": "Zadaj do trzech pyta\u0144 z poni\u017cszej listy. ",
             "partialsuccess": "Zadaj do dw\u00f3ch pyta\u0144 z poni\u017cszej listy. ",
             "failure": "Zadaj jedno pytanie. Kto\u015b zauwa\u017ca twoj\u0105 aktywno\u015b\u0107. Mo\u017ce to by\u0107 kto\u015b, komu nie chcia\u0142by\u015b si\u0119 ujawni\u0107 lub zdrajca w twojej siatce wywiadowczej. ",
-            "options": "<ul><li> </li><li> Gdzie ten przedmiot lub ta osoba byli ostatnio widziani?  </li><li> Jacy ludzie wi\u0105zali si\u0119 z tym, czego szukam?  </li><li> Jakie to co\u015b zostawi\u0142o \u015blady i znaki? </li><li> Jacy ludzie wi\u0105zali si\u0119 z tym, czego szukam?</li><li> Kto jeszcze chce znale\u017a\u0107 to, czego szukam? </li></ul>",
+            "options": "<ul><li> Gdzie ten przedmiot lub ta osoba byli ostatnio widziani?  </li><li> Jacy ludzie wi\u0105zali si\u0119 z tym, czego szukam?  </li><li> Jakie to co\u015b zostawi\u0142o \u015blady i znaki? </li><li> Jacy ludzie wi\u0105zali si\u0119 z tym, czego szukam?</li><li> Kto jeszcze chce znale\u017a\u0107 to, czego szukam? </li></ul>",
             "id": "Pisteur\u00b7rice"
         },
         {
@@ -852,7 +852,7 @@
             "completesuccess": "Wybierz dwie mo\u017cliwo\u015bci. ",
             "partialsuccess": "<ul><li>Mo\u017cesz wybra\u0107 jedn\u0105 z mo\u017cliwo\u015bci, musisz jednak wybra\u0107 te\u017c jakie\u015b negatywne skutki:  </li><li> Pozostawiasz blizny lub defekty urody (pacjent obni\u017ca Stabilno\u015b\u0107 (\u22122)).  </li><li> Wyst\u0119puj\u0105 efekty uboczne (\u22121 do wszystkich rzut\u00f3w, na jakie mog\u0142aby wp\u0142yn\u0105\u0107 rana, do czasu jej ca\u0142kowitego wyleczenia).  </li><li> Pacjent pozostaje nieprzytomny do czasu, a\u017c MG uzna, \u017ce si\u0119 budzi. </li></ul>",
             "failure": "Opatrujesz ran\u0119, nawet bez sprz\u0119tu medycznego, ale wyst\u0119puj\u0105 nieprzewidziane i potencjalnie gro\u017ane konsekwencje, takie jak infekcje, deformacje lub inne powa\u017cne efekty uboczne. MG wykonuje Ruch. ",
-            "options": "<ul><li> </li><li> Improwizacja: Opatrujesz 1 Ran\u0119 bez dost\u0119pu do sprz\u0119tu medycznego.  </li><li> Efektywny: Opatrujesz 2 Rany zamiast jednej. </li><li> Staranny: Opatrujesz Ran\u0119. Zaleczy si\u0119 on znacznie szybciej ni\u017c normalnie. </li></ul>",
+            "options": "<ul><li> Improwizacja: Opatrujesz 1 Ran\u0119 bez dost\u0119pu do sprz\u0119tu medycznego.  </li><li> Efektywny: Opatrujesz 2 Rany zamiast jednej. </li><li> Staranny: Opatrujesz Ran\u0119. Zaleczy si\u0119 on znacznie szybciej ni\u017c normalnie. </li></ul>",
             "id": "M\u00e9decine de guerre"
         },
         {
@@ -861,7 +861,7 @@
             "completesuccess": "",
             "partialsuccess": "",
             "failure": "",
-            "options": "<ul><li> </li><li> Jakie to ma w\u0142a\u015bciwo\u015bci? (Otrzymujesz +1 do wszystkich rzut\u00f3w przeciw podobnym istotom lub przedmiotom nast\u0119pnym razem, gdy je napotkasz).  </li><li> Jak mog\u0119 tego u\u017cy\u0107? (Otrzymujesz +1 do wszystkich rzut\u00f3w zwi\u0105zanych z u\u017cywaniem tego przedmiotu).  </li><li> Jaka jest jego funkcja? </li></ul>",
+            "options": "<ul><li> Jakie to ma w\u0142a\u015bciwo\u015bci? (Otrzymujesz +1 do wszystkich rzut\u00f3w przeciw podobnym istotom lub przedmiotom nast\u0119pnym razem, gdy je napotkasz).  </li><li> Jak mog\u0119 tego u\u017cy\u0107? (Otrzymujesz +1 do wszystkich rzut\u00f3w zwi\u0105zanych z u\u017cywaniem tego przedmiotu).  </li><li> Jaka jest jego funkcja? </li></ul>",
             "id": "Scientifique"
         },
         {
@@ -870,7 +870,7 @@
             "completesuccess": "Zadaj MG dwa pytania z poni\u017cszej listy. ",
             "partialsuccess": "Zadaj MG jedno pytanie z poni\u017cszej listy. ",
             "failure": "Zdaj MG jedno pytanie z poni\u017cszej listy. Przeoczy\u0142e\u015b co\u015b kluczowego. MG zyskuje 1 punkt Wp\u0142ywu, kt\u00f3ry mo\u017ce wyda\u0107 w dowolnym momencie na wykonanie twardego lub mi\u0119kkiego Ruchu. ",
-            "options": "<ul><li> </li><li> Z kt\u00f3r\u0105 z si\u0142 wy\u017cszych to co\u015b ma zwi\u0105zek?  </li><li> Czego potrzebuj\u0119 lub co musz\u0119 zrobi\u0107, by wygna\u0107 lub kontrolowa\u0107 t\u0119 istot\u0119?  </li><li> Z kt\u00f3rym wymiarem jest to zwi\u0105zane? </li><li> Czego potrzebuj\u0119 lub co musz\u0119 zrobi\u0107, by</li><li> Co musz\u0119 zrobi\u0107, by si\u0119 przed tym chroni\u0107? </li></ul>",
+            "options": "<ul><li> Z kt\u00f3r\u0105 z si\u0142 wy\u017cszych to co\u015b ma zwi\u0105zek?  </li><li> Czego potrzebuj\u0119 lub co musz\u0119 zrobi\u0107, by wygna\u0107 lub kontrolowa\u0107 t\u0119 istot\u0119?  </li><li> Z kt\u00f3rym wymiarem jest to zwi\u0105zane? </li><li> Czego potrzebuj\u0119 lub co musz\u0119 zrobi\u0107, by</li><li> Co musz\u0119 zrobi\u0107, by si\u0119 przed tym chroni\u0107? </li></ul>",
             "id": "Biblioth\u00e8que occulte"
         },
         {
@@ -879,7 +879,7 @@
             "completesuccess": "Zadaj MG trzy pytania z poni\u017cszej listy. ",
             "partialsuccess": "Zadaj MG dwa pytania z poni\u017cszej listy. ",
             "failure": "Zadaj jedno pytanie z poni\u017cszej listy. Kto\u015b dowiaduje si\u0119 o twoich poszukiwaniach. ",
-            "options": "<ul><li> </li><li> Jakie jest jego pochodzenie?  </li><li> Co lub kogo kocha najbardziej?  </li><li> Kim si\u0119 otacza, kogo lubi lub komu ufa?  </li><li> Gdzie si\u0119 teraz znajduje? </li><li> Co lub kogo kocha najbardziej?</li><li> Gdzie si\u0119 teraz znajduje?do niego dosta\u0107? </li></ul>",
+            "options": "<ul><li> Jakie jest jego pochodzenie?  </li><li> Co lub kogo kocha najbardziej?  </li><li> Kim si\u0119 otacza, kogo lubi lub komu ufa?  </li><li> Gdzie si\u0119 teraz znajduje? </li><li> Co lub kogo kocha najbardziej?</li><li> Gdzie si\u0119 teraz znajduje?do niego dosta\u0107? </li></ul>",
             "id": "Chasseur\u00b7euse d\u2019humain\u00b7e"
         },
         {
@@ -906,7 +906,7 @@
             "completesuccess": "Wykorzystaj obie poni\u017csze mo\u017cliwo\u015bci. ",
             "partialsuccess": "Wybierz jedn\u0105 z mo\u017cliwo\u015bci. ",
             "failure": "Masz mgliste wspomnienie, \u017ce ju\u017c spotka\u0142e\u015b si\u0119 z czym\u015b podobnym, ale nie jeste\u015b pewien. MG opisuje, co pami\u0119tasz. ",
-            "options": "<ul><li> </li><li> Wiesz co\u015b na ten temat (zapytaj MG, co wiesz; otrzymujesz +1 na reszt\u0119 sceny do test\u00f3w, w kt\u00f3rych wykorzystujesz wiedz\u0119 z odpowiedzi). </li><li> Wiesz, gdzie mo\u017cesz znale\u017a\u0107 na dany temat wi\u0119cej informacji (zapytaj MG, gdzie ich szuka\u0107). </li></ul>",
+            "options": "<ul><li> Wiesz co\u015b na ten temat (zapytaj MG, co wiesz; otrzymujesz +1 na reszt\u0119 sceny do test\u00f3w, w kt\u00f3rych wykorzystujesz wiedz\u0119 z odpowiedzi). </li><li> Wiesz, gdzie mo\u017cesz znale\u017a\u0107 na dany temat wi\u0119cej informacji (zapytaj MG, gdzie ich szuka\u0107). </li></ul>",
             "id": "\u00c9tudes occultes"
         },
         {
@@ -915,7 +915,7 @@
             "completesuccess": "Zadaj dwa pytania. ",
             "partialsuccess": "Zadaj jedno pytanie. ",
             "failure": "Zadaj jedno pytanie, ale twoje \u015bledztwo wystawia ci\u0119 na zagro\u017cenie lub tworzy nowe problemy, kt\u00f3re pojawi\u0105 si\u0119 p\u00f3\u017aniej. ",
-            "options": "<ul><li> </li><li> Jak przebieg\u0142y zdarzenia?  </li><li> Co mog\u0119 za\u0142o\u017cy\u0107 na temat sprawcy?  </li><li> Jakie b\u0142\u0119dy pope\u0142ni\u0142 sprawca?  </li><li> Kiedy pope\u0142niono przest\u0119pstwo?  </li><li> Kiedy kto\u015b tu ostatnio by\u0142?  </li><li> Czy przest\u0119pstwo przypomina mi co\u015b, co ju\u017c znam, a je\u015bli tak, to co? </li><li> Co mog\u0119 za\u0142o\u017cy\u0107 na temat sprawcy?</li><li> Kiedy pope\u0142niono przest\u0119pstwo?</li><li> Czy przest\u0119pstwo przypomina mi co\u015b, co ju\u017c znam, a je\u015bli tak, to co? </li><li> Kto mo\u017ce wiedzie\u0107 wi\u0119cej o tym przest\u0119pstwie?</li></ul>",
+            "options": "<ul><li> Jak przebieg\u0142y zdarzenia?  </li><li> Co mog\u0119 za\u0142o\u017cy\u0107 na temat sprawcy?  </li><li> Jakie b\u0142\u0119dy pope\u0142ni\u0142 sprawca?  </li><li> Kiedy pope\u0142niono przest\u0119pstwo?  </li><li> Kiedy kto\u015b tu ostatnio by\u0142?  </li><li> Czy przest\u0119pstwo przypomina mi co\u015b, co ju\u017c znam, a je\u015bli tak, to co? </li><li> Co mog\u0119 za\u0142o\u017cy\u0107 na temat sprawcy?</li><li> Kiedy pope\u0142niono przest\u0119pstwo?</li><li> Czy przest\u0119pstwo przypomina mi co\u015b, co ju\u017c znam, a je\u015bli tak, to co? </li><li> Kto mo\u017ce wiedzie\u0107 wi\u0119cej o tym przest\u0119pstwie?</li></ul>",
             "id": "Enqu\u00eateur\u00b7rice"
         },
         {
@@ -924,7 +924,7 @@
             "completesuccess": "Konstrukcja lub naprawa si\u0119 udaje; mo\u017cesz wybra\u0107 dwie z poni\u017cszych mo\u017cliwo\u015bci.",
             "partialsuccess": "Konstrukcja ma niewielkie wady. Mo\u017cesz wybra\u0107 jedn\u0105 z poni\u017cszych mo\u017cliwo\u015bci.",
             "failure": "Ko\u0144czysz konstrukcj\u0119 (lub napraw\u0119), ale ma ona powa\u017cne wady, w tym niekt\u00f3re ukryte. MG wykonuje Ruch.",
-            "options": "<ul><li></li><li> Wytrzyma\u0142a: Konstrukcja mo\u017ce zosta\u0107 wielokrotnie wykorzystana i nie psuje si\u0119 \u0142atwo. </li><li> Efektywna: Konstrukcja daje +1 do rzut\u00f3w, w kt\u00f3rych jest u\u017cywana zgodnie z przeznaczeniem. </li><li> \u015amiertelna: Konstrukcja zadaje +1 punkt Obra\u017ce\u0144. </li><li> Ochronna: Konstrukcja daje +1 punkt Pancerza.            </li></ul>",
+            "options": "<ul><li> Wytrzyma\u0142a: Konstrukcja mo\u017ce zosta\u0107 wielokrotnie wykorzystana i nie psuje si\u0119 \u0142atwo. </li><li> Efektywna: Konstrukcja daje +1 do rzut\u00f3w, w kt\u00f3rych jest u\u017cywana zgodnie z przeznaczeniem. </li><li> \u015amiertelna: Konstrukcja zadaje +1 punkt Obra\u017ce\u0144. </li><li> Ochronna: Konstrukcja daje +1 punkt Pancerza.            </li></ul>",
             "id": "Inventeur\u00b7rice"
         },
         {
@@ -933,7 +933,7 @@
             "completesuccess": "Zadaj trzy pytania. ",
             "partialsuccess": "Zadaj dwa pytania. ",
             "failure": "Zadaj jedno pytanie. Odkrywasz r\u00f3wnie\u017c co\u015b niespodziewanego. MG wykonuje Ruch. ",
-            "options": "<ul><li> </li><li> Jakie jest pochodzenie tej rzeczy?  </li><li> Do czego to s\u0142u\u017cy? </li><li> Ja to dzia\u0142a? </li><li> Na co musz\u0119 uwa\u017ca\u0107? </li><li>  Jak mog\u0119 to zatrzyma\u0107 lub zniszczy\u0107? </li></ul>",
+            "options": "<ul><li> Jakie jest pochodzenie tej rzeczy?  </li><li> Do czego to s\u0142u\u017cy? </li><li> Ja to dzia\u0142a? </li><li> Na co musz\u0119 uwa\u017ca\u0107? </li><li>  Jak mog\u0119 to zatrzyma\u0107 lub zniszczy\u0107? </li></ul>",
             "id": "R\u00e9colte de donn\u00e9es"
         },
         {
