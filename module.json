@@ -39,6 +39,6 @@
   "styles": [],
   "packs": [],
     "url": "https://github.com/otimor/kult-compendium-pl",
-    "manifest": "",
+    "manifest": "https://raw.githubusercontent.com/otimor/kult-compendium-pl/main/module.json",
     "download": ""
 }
