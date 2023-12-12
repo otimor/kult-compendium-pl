@@ -1,0 +1,328 @@
+{
+    "label": "Komplikacja[PL]",
+    "mapping": {
+        "name": "name",
+        "effect": "system.effect",
+        "completesuccess": "system.completesuccess",
+        "partialsuccess": "system.partialsuccess",
+        "failure": "system.failure",
+        "options": "system.options"
+    },
+    "entries": [
+        {
+            "name": "Chciwy ",
+            "effect": "\u017bywisz niezaspokojone pragnienie pieni\u0119dzy i bogactwa i jeste\u015b got\u00f3w po\u015bwi\u0119ci\u0107 zdrowie, rodzin\u0119 i przyjaci\u00f3\u0142, by wype\u0142ni\u0107 pustk\u0119, kt\u00f3r\u0105 odczuwasz gdzie\u015b w \u015brodku. Za ka\u017cdym razem, gdy pojawia si\u0119 mo\u017cliwo\u015b\u0107 zwi\u0119kszenia twojego bogactwa, rzu\u0107 +0, by okre\u015bli\u0107, czy kontrolujesz swoje pragnienie: ",
+            "completesuccess": "Trzymasz chciwo\u015b\u0107 na wodzy. ",
+            "partialsuccess": "Czarna otch\u0142a\u0144 wewn\u0105trz \u017c\u0105da wi\u0119cej. Tak d\u0142ugo, jak nie zniknie mo\u017cliwo\u015b\u0107 zwi\u0119kszenia bogactwa, a ty jej nie wykorzystasz, otrzymujesz \u22121 do wszystkich rzut\u00f3w. ",
+            "failure": "Musisz wykorzysta\u0107 ka\u017cd\u0105 mo\u017cliwo\u015b\u0107 wzbogacenia si\u0119 lub obni\u017cy\u0107 Stabilno\u015b\u0107 (\u22122). ",
+            "options": "",
+            "id": "Avare"
+        },
+        {
+            "name": "Chory ",
+            "effect": "Cierpisz na niebezpieczn\u0105, by\u0107 mo\u017ce przewlek\u0142\u0105 chorob\u0119; na przyk\u0142ad masz chore serce, nadci\u015bnienie, cierpisz na oty\u0142o\u015b\u0107 lub wrzody \u017co\u0142\u0105dka. Za ka\u017cdym razem, gdy do\u015bwiadczasz znacznego napi\u0119cia fizycznego lub psychicznego, rzu\u0107 +0: ",
+            "completesuccess": "Twoja choroba jest pod kontrol\u0105. ",
+            "partialsuccess": "Twoja choroba daje o sobie zna\u0107, sprawiaj\u0105c b\u00f3l i osza- \u0142amiaj\u0105c ci\u0119 (\u22121 do wszystkich rzut\u00f3w do ko\u0144ca sceny). ",
+            "failure": "Tw\u00f3j stan pogarsza si\u0119 i mo\u017ce zagra\u017ca\u0107 \u017cyciu (Znie\u015b obra\u017cenia z 2 Obra\u017ceniami). ",
+            "options": "",
+            "id": "Handicap"
+        },
+        {
+            "name": "Cudza w\u0142asno\u015b\u0107 ",
+            "effect": "By\u0142e\u015b w przesz\u0142o\u015bci osobist\u0105 w\u0142asno\u015bci\u0105 niebezpiecznego cz\u0142owieka, dobrowolnie lub nie. Odk\u0105d uciek\u0142e\u015b, tw\u00f3j by\u0142y w\u0142a\u015bciciel wci\u0105\u017c ci\u0119 szuka. Okre\u015bl, kim on jest. Podczas pierwszej sesji gry i za ka\u017cdym razem, gdy zwracasz na siebie publicznie uwag\u0119, rzu\u0107 +0: ",
+            "completesuccess": "Jeste\u015b chwilowo bezpieczny. ",
+            "partialsuccess": "Tw\u00f3j by\u0142y w\u0142a\u015bciciel wpada na tw\u00f3j trop. MG zyskuje 1 punkt Wp\u0142ywu. ",
+            "failure": "Tw\u00f3j w\u0142a\u015bciciel odnajduje ci\u0119. MG zyskuje 3 punkty Wp\u0142ywu. ",
+            "options": "MG mo\u017ce wydawa\u0107 punkty Wp\u0142ywu, by wykonywa\u0107 Ruchy w imieniu twojego by\u0142ego w\u0142a\u015bciciela. Na przyk\u0142ad mo\u017ce on niespodziewanie pojawi\u0107 si\u0119, by nak\u0142oni\u0107 ci\u0119 do powrotu, nas\u0142a\u0107 na ciebie swoje s\u0142ugi, porwa\u0107 lub skrzywdzi\u0107 kogo\u015b, na kim ci zale\u017cy, grozi\u0107 ci, zniszczy\u0107 co\u015b dla ciebie wa\u017cnego, usi\u0142owa\u0107 ci\u0119 okaleczy\u0107, by nikt wi\u0119cej ci\u0119 nie zechcia\u0142, lub po prostu ci\u0119 zabi\u0107, by\u015b nie m\u00f3g\u0142 ju\u017c nale\u017ce\u0107 do nikogo innego. ",
+            "id": "Esclave"
+        },
+        {
+            "name": "Depresja ",
+            "effect": "Nieustannie zmagasz si\u0119 z depresj\u0105; pora\u017cki i dezaprobata tylko j\u0105 pog\u0142\u0119biaj\u0105. Za ka\u017cdym razem, gdy do\u015bwiadczasz osobistych niepowodze\u0144, rzu\u0107 +0: ",
+            "completesuccess": "Opanowujesz si\u0119. ",
+            "partialsuccess": "Odczuwasz chwilowy niepok\u00f3j, spada twoja pewno\u015b\u0107 siebie lub brakuje ci si\u0142y woli. Otrzymujesz kar\u0119 \u22121 do swojego nast\u0119pnego rzutu. ",
+            "failure": "Poddajesz si\u0119 poczuciu beznadziei lub winy i wymierzasz sobie kar\u0119; obni\u017c Stabilno\u015b\u0107 (\u22122). Apatia i autodestrukcyjne sk\u0142onno\u015bci nie znikaj\u0105, dop\u00f3ki nie ot\u0119pisz si\u0119 lekami, narkotykami lub alkoholem. ",
+            "options": "",
+            "id": "D\u00e9pression"
+        },
+        {
+            "name": "Fanatyk ",
+            "effect": "Jeste\u015b \u017carliwym wyznawc\u0105 jakiej\u015b ideologii. W zgodzie z ni\u0105 interpretujesz ca\u0142y \u015bwiat; nie dopuszczasz \u017cadnych w\u0105tpliwo\u015bci. Za ka\u017cdym razem, gdy kto\u015b podwa\u017ca wyznawan\u0105 przez ciebie ideologi\u0119, rzu\u0107 +0: ",
+            "completesuccess": "Trzymasz emocje na wodzy. ",
+            "partialsuccess": "Robisz si\u0119 z\u0142y, zdezorientowany lub sfrustrowany. Otrzy- mujesz kar\u0119 \u22121 do nast\u0119pnego rzutu. ",
+            "failure": "Musisz wybra\u0107: albo podejmujesz kroki, by wp\u0142yn\u0105\u0107 na dan\u0105 osob\u0119 lub sytuacj\u0119 tak, aby pozostawa\u0142y w zgodzie z twoj\u0105 ideologi\u0105, albo obni\u017casz swoj\u0105 Stabilno\u015b\u0107 (\u22122). ",
+            "options": "",
+            "id": "Fanatique"
+        },
+        {
+            "name": "Fobia ",
+            "effect": "Istnieje co\u015b, co napawa ci\u0119 obezw\u0142adniaj\u0105cym strachem. Okre\u015bl, co to za bodziec. Za ka\u017cdym razem, gdy mierzysz si\u0119 z obiektem swojej fobii, musisz Wzi\u0105\u0107 si\u0119 w gar\u015b\u0107. ",
+            "completesuccess": "",
+            "partialsuccess": "",
+            "failure": "",
+            "options": "",
+            "id": "Phobie"
+        },
+        {
+            "name": "K\u0142amca ",
+            "effect": "Nie mo\u017cesz powstrzyma\u0107 si\u0119 od k\u0142amania; zmy\u015blasz przy ka\u017cdej nadarzaj\u0105cej si\u0119 okazji, zw\u0142aszcza gdy mo\u017cesz na tym zyska\u0107. Na pocz\u0105tku ka\u017cdej sesji rzu\u0107 +0, by ustali\u0107, w jakie k\u0142opoty wpakowa\u0142y ci\u0119 twoje k\u0142amstwa tym razem: ",
+            "completesuccess": "Uda\u0142o ci si\u0119 nie zapl\u0105ta\u0107 si\u0119 we w\u0142asnych k\u0142amstwach. ",
+            "partialsuccess": "Powiedzia\u0142e\u015b o jedno k\u0142amstwo za du\u017co. MG zyskuje 1 punkt Wp\u0142ywu. ",
+            "failure": "Sie\u0107 twoich k\u0142amstw zosta\u0142a zupe\u0142nie rozwik\u0142ana. MG zyskuje 3 punkty Wp\u0142ywu. ",
+            "options": "MG mo\u017ce wyda\u0107 punkty Wp\u0142ywu za ka\u017cdym razem, gdy BG spo- tyka kogo\u015b, kogo zna, by zapyta\u0107: \u201eJakie k\u0142amstwo powiedzia\u0142e\u015b tej osobie?\u201d, lub wymy\u015bli\u0107 k\u0142opotliwe oszustwo z przesz\u0142o\u015bci BG. ",
+            "id": "Menteur\u00b7euse"
+        },
+        {
+            "name": "Konkurent ",
+            "effect": "Masz w \u015bwiecie przest\u0119pczym konkurenta, kt\u00f3rego pole zainteresowa\u0144 pokrywa si\u0119 z twoim. Za ka\u017cdym razem, gdy zaniedbasz ochron\u0119 swoich interes\u00f3w lub jeste\u015b zaj\u0119ty czym\u015b innym, rzu\u0107 +0, by okre\u015bli\u0107, czy twojemu konkurentowi uda\u0142o si\u0119 ci zaszkodzi\u0107: ",
+            "completesuccess": "W tej chwili tw\u00f3j konkurent nie stanowi zagro\u017cenia. ",
+            "partialsuccess": "By\u0142e\u015b nieostro\u017cny. Tw\u00f3j konkurent mo\u017ce w ciebie ude- rzy\u0107. MG zyskuje 1 punkt Wp\u0142ywu. ",
+            "failure": "Niechc\u0105cy stwarzasz swojemu konkurentowi doskona\u0142\u0105 okazj\u0119 do dzia\u0142ania; uderza on w twoje interesy. MG zyskuje 3 punkty Wp\u0142ywu. ",
+            "options": "MG mo\u017ce wydawa\u0107 punkty Wp\u0142ywu, aby wykonywa\u0107 Ruchy w imieniu twojego konkurenta. Na przyk\u0142ad mo\u017ce on przej\u0105\u0107 cz\u0119\u015b\u0107 twoich interes\u00f3w, pozna\u0107 jedn\u0105 z twoich tajemnic, sabotowa\u0107 aktywa czy przekupi\u0107 lub zrani\u0107 kogo\u015b, komu ufasz i o kogo dbasz. ",
+            "id": "Concurrent\u00b7e"
+        },
+        {
+            "name": "Koszmary ",
+            "effect": "Dr\u0119cz\u0105 ci\u0119 powracaj\u0105ce koszmary, prawdopodobnie powi\u0105zane z twoimi Mrocznymi Sekretami. Podczas ka\u017cdej sceny, w kt\u00f3rej \u015bpisz, rzu\u0107 +0: ",
+            "completesuccess": "\u015apisz spokojnie. ",
+            "partialsuccess": "Nawiedzaj\u0105 ci\u0119 koszmary. MG mo\u017ce wykona\u0107 zwi\u0105zany z nimi Ruch: na przyk\u0142ad mo\u017ce si\u0119 okaza\u0107, \u017ce nie jeste\u015b w stanie w og\u00f3le spa\u0107 tej nocy (\u22121 do wszystkich rzut\u00f3w, dop\u00f3ki si\u0119 nie prze\u015bpisz), co\u015b prze\u015blizgn\u0119\u0142o si\u0119 za tob\u0105 z powrotem do rzeczywisto\u015bci, koszmary da\u0142y ci wgl\u0105d w Prawd\u0119 lub po przebudzeniu jeste\u015b zmuszony do zmierzenia si\u0119 z jak\u0105\u015b traum\u0105 (We\u017a si\u0119 w gar\u015b\u0107). ",
+            "failure": "Koszmary przejmuj\u0105 pe\u0142n\u0105 kontrol\u0119. Jeste\u015b uwi\u0119ziony we \u015bnie, dop\u00f3ki nie znajdziesz sposobu, by si\u0119 obudzi\u0107, a wszystko, co ma miejsce we \u015bnie, wp\u0142ywa bezpo\u015brednio na twoje \u015bpi\u0105ce cia\u0142o. ",
+            "options": "",
+            "id": "Cauchemars"
+        },
+        {
+            "name": "Mimowolne medium ",
+            "effect": "Jeste\u015b \u0142atwym celem dla ka\u017cdego ducha lub demona, kt\u00f3ry poszukuje medium, aby przez nie przem\u00f3wi\u0107, lub cia\u0142a, kt\u00f3re m\u00f3g\u0142by wykorzysta\u0107 do swoich cel\u00f3w. Za ka\u017cdym razem, gdy napotykasz duchowe byty lub odwiedzasz nawiedzone miejsca, rzu\u0107 +0: ",
+            "completesuccess": "Opierasz si\u0119 op\u0119taniu. ",
+            "partialsuccess": "Istota oddzia\u0142uje na ciebie. MG zyskuje 1 punkt Wp\u0142ywu. ",
+            "failure": "Istota przejmuje nad tob\u0105 w\u0142adz\u0119. MG zyskuje 3 punkty Wp\u0142ywu. ",
+            "options": "MG mo\u017ce wydawa\u0107 punkty Wp\u0142ywu, by wykonywa\u0107 Ruchy w imieniu op\u0119tuj\u0105cej ci\u0119 istoty. Na przyk\u0142ad mo\u017ce ona obdarzy\u0107 ci\u0119 wizj\u0105, pos\u0142u\u017cy\u0107 si\u0119 twoim cia\u0142em, porozumiewa\u0107 si\u0119 z tob\u0105 lub z kim\u015b innym przez ciebie, usi\u0142owa\u0107 sprawi\u0107, by\u015b kogo\u015b zrani\u0142, pod\u0105\u017ca\u0107 za tob\u0105 niezauwa\u017cona, za\u017c\u0105da\u0107 czego\u015b od ciebie lub zaci\u0105gn\u0105\u0107 ci\u0119 do innego wymiaru. ",
+            "id": "M\u00e9dium involontaire"
+        },
+        {
+            "name": "Narkoman ",
+            "effect": "Jeste\u015b uzale\u017cniony od twardych narkotyk\u00f3w; wymie\u0144 co najmniej jeden. Podczas pierwszej sesji gry i za ka\u017cdym razem, gdy bierzesz lub masz okazj\u0119 bra\u0107 narkotyki, rzu\u0107 +0: ",
+            "completesuccess": "Na razie panujesz nad uzale\u017cnieniem. ",
+            "partialsuccess": "MG zyskuje 1 punkt Wp\u0142ywu. ",
+            "failure": "MG zyskuje 3 punkty Wp\u0142ywu. ",
+            "options": "MG mo\u017ce wydawa\u0107 punkty Wp\u0142ywu, by wykonywa\u0107 Ruchy reprezentuj\u0105ce twoje uzale\u017cnienie. Na przyk\u0142ad oka\u017ce si\u0119, \u017ce nie mo\u017cesz powstrzyma\u0107 si\u0119 przed za\u017cywaniem narkotyku, ko\u0144czy ci si\u0119 zapas, zaci\u0105gasz d\u0142ug u kogo\u015b niebezpiecznego, wystawiasz si\u0119 na niebezpiecze\u0144stwo pod wp\u0142ywem narkotyk\u00f3w lub niszczysz co\u015b wa\u017cnego dla ciebie \u2013 na przyk\u0142ad zwi\u0105zek. ",
+            "id": "Drogu\u00e9\u00b7e"
+        },
+        {
+            "name": "Nawiedzany ",
+            "effect": "Nawiedzaj\u0105 ci\u0119 nadnaturalne moce. Z pomoc\u0105 MG okre\u015bl, co wed\u0142ug ciebie ci\u0119 nawiedza. Podczas pierwszej sesji gry i za ka\u017cdym razem, gdy jeste\u015b rozproszony lub os\u0142abiony, rzu\u0107 +0, by okre\u015bli\u0107, czy istota zyskuje na ciebie wp\u0142yw. ",
+            "completesuccess": "Istota zostawia ci\u0119 w spokoju. ",
+            "partialsuccess": "MG zyskuje 1 punkt Wp\u0142ywu. ",
+            "failure": "MG zyskuje 3 punkty Wp\u0142ywu. ",
+            "options": "MG mo\u017ce wydawa\u0107 punkty Wp\u0142ywu, by wykonywa\u0107 Ruchy w imieniu nawiedzaj\u0105cej ci\u0119 istoty. Mo\u017ce ona na przyk\u0142ad \u017c\u0105da\u0107, by\u0107 co\u015b dla niej zrobi\u0142, i grozi\u0107 konsekwencjami, je\u015bli odm\u00f3wisz; mo\u017ce przej\u0105\u0107 na jedn\u0105 noc twoje cia\u0142o lub ujawni\u0107 wskaz\u00f3wk\u0119 co do swojej natury i tego, czego chce. ",
+            "id": "Hant\u00e9\u00b7e"
+        },
+        {
+            "name": "Naznaczony ",
+            "effect": "Ciemno\u015b\u0107 ci\u0119 naznaczy\u0142a. Owo pi\u0119tno mog\u0142o przybra\u0107 kszta\u0142t tatua\u017cu na ca\u0142ym ciele, demonicznej cz\u0119\u015bci cia\u0142a, takiej jak szcz\u0105tkowe rami\u0119, dodatkowe oko lub usta, po\u0142\u0105czonych z cia\u0142em cz\u0119\u015bci mechanicznych lub czego\u015b podobnego. Za ka\u017cdym razem, gdy \u015bwiadomie zadajesz komu\u015b Obra\u017cenia, rzu\u0107 +0: ",
+            "completesuccess": "Zachowujesz kontrol\u0119. ",
+            "partialsuccess": "Ciemno\u015b\u0107 karmi si\u0119 twoim uczynkiem. MG zyskuje 1 punkt Wp\u0142ywu. ",
+            "failure": "Ciemno\u015b\u0107 zyskuje nad tob\u0105 kontrol\u0119. MG zyskuje 3 punkty Wp\u0142ywu. ",
+            "options": "MG mo\u017ce wydawa\u0107 punkty Wp\u0142ywu, by wykonywa\u0107 Ruchy reprezentuj\u0105ce ciemno\u015b\u0107, kt\u00f3ra w tobie \u017cyje. Na przyk\u0142ad mo\u017ce ona wysysa\u0107 twoj\u0105 energi\u0105 \u017cyciow\u0105, zmusi\u0107 ci\u0119 do zab\u00f3jstwa, tak aby mog\u0142a si\u0119 na nim po\u017cywi\u0107, przej\u0105\u0107 twoje cia\u0142o tak, \u017ce gdy odzyskasz kontrol\u0119, b\u0119dziesz mie\u0107 jedynie fragmentaryczne wspomnienia o tym, co zasz\u0142o, zmusi\u0107 ci\u0119 do skrzywdzenia kogo\u015b w pobli\u017cu lub tymczasowo przemieni\u0107 twoje cia\u0142o w co\u015b nieludzkiego. Mo\u017ce si\u0119 zdarzy\u0107, \u017ce b\u0119dziesz zmuszony Wzi\u0105\u0107 si\u0119 w gar\u015b\u0107, by odeprze\u0107 wp\u0142yw ciemno\u015bci. ",
+            "id": "Marqu\u00e9\u00b7e"
+        },
+        {
+            "name": "Nemezis ",
+            "effect": "Pope\u0142ni\u0142e\u015b jaki\u015b straszliwy czyn i zyska\u0142e\u015b wroga, kt\u00f3ry zrobi wszystko, co w jego mocy, by si\u0119 zem\u015bci\u0107. Okre\u015bl, kim jest twoja nemezis i co sprawi\u0142o, \u017ce pragnie zemsty. Podczas pierwszej sesji gry i za ka\u017cdym razem, gdy przestaniesz mie\u0107 si\u0119 na baczno\u015bci, rzu\u0107 +0, by okre\u015bli\u0107, czy twoja nemezis dzia\u0142a przeciw tobie: ",
+            "completesuccess": "Chwilowo jeste\u015b bezpieczny. ",
+            "partialsuccess": "By\u0142e\u015b nieostro\u017cny; twoja nemezis dzia\u0142a przeciw tobie. MG zyskuje 1 punkt Wp\u0142ywu. ",
+            "failure": "Ods\u0142oni\u0142e\u015b si\u0119 i twoja nemezis uderza z ca\u0142\u0105 si\u0142\u0105. MG zyskuje 3 punkty Wp\u0142ywu. ",
+            "options": "MG mo\u017ce wydawa\u0107 punkty Wp\u0142ywu, by wyko- nywa\u0107 Ruchy w imieniu twojej nemezis. Na przyk\u0142ad twoja nemezis mo\u017ce uderzy\u0107, gdy b\u0119dziesz sam, u\u017cy\u0107 twoich tajemnic, by ci\u0119 szanta\u017cowa\u0107, zastraszy\u0107 ci\u0119, wynaj\u0105\u0107 kogo\u015b, by ci\u0119 schwyta\u0142, albo zaatakowa\u0107 kogo\u015b lub co\u015b, co jest ci bliskie. ",
+            "id": "N\u00e9m\u00e9sis"
+        },
+        {
+            "name": "Nieudany eksperyment ",
+            "effect": "Przeprowadzi\u0142e\u015b eksperyment naukowy, kt\u00f3ry poszed\u0142 w niew\u0142a\u015bciwym kierunku. Da\u0142 pocz\u0105tek czemu\u015b nienaturalnemu, co uciek\u0142o i znikn\u0119\u0142o bez \u015bladu. W ostatnim czasie \u201ewynik\u201d twojego eksperymentu wy\u015bledzi\u0142 ci\u0119 i zn\u00f3w pojawi\u0142 si\u0119 w twoim \u017cyciu, zmuszaj\u0105c ci\u0119 do konfrontacji lub ucieczki. Podczas pierwszej sesji gry i za ka\u017cdym razem, gdy sprawy wydaj\u0105 si\u0119 pod kontrol\u0105, rzu\u0107 +0: ",
+            "completesuccess": "Tw\u00f3j eksperyment zostawia ci\u0119 w spokoju. ",
+            "partialsuccess": "Tw\u00f3j eksperyment dep- cze ci po pi\u0119tach. MG zyskuje 1 punkt Wp\u0142ywu. ",
+            "failure": "Tw\u00f3j eksperyment jest w pobli\u017cu i dzia\u0142a przeciw tobie. MG zyskuje 3 punkty Wp\u0142ywu. ",
+            "options": "MG mo\u017ce wydawa\u0107 punkty Wp\u0142ywu, by wykonywa\u0107 Ruchy w imieniu eksperymentu. Na przyk\u0142ad mo\u017ce on da\u0107 ci wskaz\u00f3wk\u0119 dotycz\u0105c\u0105 Prawdy, sabotowa\u0107 lub w inny spos\u00f3b szkodzi\u0107 twoim badaniom, za\u017c\u0105da\u0107 czego\u015b i grozi\u0107 konsekwencjami, je\u015bli nie spe\u0142nisz \u017c\u0105da\u0144, lub porwa\u0107 kogo\u015b, na kim ci zale\u017cy \u2013 i by\u0107 mo\u017ce odes\u0142a\u0107 t\u0119 osob\u0119 z powrotem martw\u0105 lub odmienion\u0105. ",
+            "id": "Exp\u00e9rience rat\u00e9e"
+        },
+        {
+            "name": "Obiekt po\u017c\u0105dania ",
+            "effect": "Jest w tobie co\u015b wyj\u0105tkowego. Rozpalasz w innych niezdrowe po\u017c\u0105danie, kt\u00f3rego nie potrafi\u0105 utrzyma\u0107 na wodzy. Podczas pierwszej sesji gry i za ka\u017cdym razem, gdy spotykasz kogo\u015b nowego, rzu\u0107 +0: ",
+            "completesuccess": "Na ten moment po\u017c\u0105danie nie zosta\u0142o rozbudzone. ",
+            "partialsuccess": "Kto\u015b ci\u0119 po\u017c\u0105da. MG zyskuje 1 punkt Wp\u0142ywu. ",
+            "failure": "Silne po\u017c\u0105danie budzi si\u0119 w jednej lub wi\u0119kszej liczbie os\u00f3b. MG zyskuje 3 punkty Wp\u0142ywu. ",
+            "options": "MG mo\u017ce wydawa\u0107 punkty Wp\u0142ywu, by rozpali\u0107 \u017c\u0105dze jakiej\u015b osoby i wp\u0142yn\u0105\u0107 na jej zachowanie. Mo\u017ce si\u0119 okaza\u0107, \u017ce ogarn\u0119\u0142a j\u0105 niekontrolowana nami\u0119tno\u015b\u0107 wzgl\u0119dem ciebie, \u017ce b\u0119dzie pr\u00f3bowa\u0142a ci\u0119 zgwa\u0142ci\u0107, natarczywie proponowa\u0142a seks, zap\u0142onie zazdro\u015bci\u0105 o ciebie albo skrzywdzi sam\u0105 siebie lub innych dlatego, \u017ce ci\u0119 po\u017c\u0105da. z tob\u0105 w uk\u0142ady. ",
+            "id": "Objet de d\u00e9sir"
+        },
+        {
+            "name": "Obsesja ",
+            "effect": "Odkry\u0142e\u015b spisek lub nadnaturalne zjawisko Masz ci\u0119\u017ckie poczucie winy za przesz\u0142e grzechy, poniewa\u017c zrai po prostu musisz dowiedzie\u0107 si\u0119, co si\u0119 za ni\u0142e\u015b jedn\u0105 lub wiele os\u00f3b swoimi dzia\u0142aniami lub ich brakiem. nim kryje. Podczas pierwszej sesji gry i za ka\u017cdym razem, gdy napotykasz co\u015b zwi\u0105zanego Podczas pierwszej sesji gry i za ka\u017cdym razem, gdy sprawy wydaj\u0105 si\u0119 z twoj\u0105 obsesj\u0105, rzu\u0107 +0: w porz\u0105dku, rzu\u0107 +0: ",
+            "completesuccess": "Nie my\u015blisz w tej chwili o swojej winie. swoj\u0105 obsesj\u0119. ",
+            "partialsuccess": "Twoja obsesja wp\u0142ywa na twoje zachowanie. MG zyskuje ",
+            "failure": "Twoja obsesja przejmuje ca\u0142- zentuj\u0105ce twoje poczucie winy. Mo\u017ce si\u0119 na przyk\u0142ad okaza\u0107, \u017ce kowit\u0105 kontrol\u0119. MG zyskuje poszukuj\u0105 ci\u0119 krewni os\u00f3b, kt\u00f3re skrzywdzi\u0142e\u015b, twoje poczucie winy 3 punkty Wp\u0142ywu. przyci\u0105ga demony i inne byty, umarli zsy\u0142aj\u0105 na ciebie sny i wizje lub ",
+            "options": "MG mo\u017ce wydawa\u0107 punkty Wp\u0142ywu, by popadasz w l\u0119k i zw\u0105tpienie. sprawi\u0107, \u017ce twoja obsesja przeniknie twoje codzienne \u017cycie. Mo\u017ce to oznacza\u0107 konieczno\u015b\u0107 wyboru mi\u0119dzy oddaniem ",
+            "id": "Obsession"
+        },
+        {
+            "name": "Poszukiwany ",
+            "effect": "si\u0119 obsesji a obni\u017ceniem Stabilno\u015bci. Jeste\u015b poszukiwany przez w\u0142adze \u2013 lokalne, stanowe lub pa\u0144stwowe Na przyk\u0142ad oka\u017ce si\u0119, \u017ce zapominasz \u2013 za pope\u0142nione przest\u0119pstwa. Za ka\u017cdym razem, gdy \u015bci\u0105gniesz na sieo wa\u017cnych zadaniach lub obowi\u0105zkach, bie uwag\u0119 lub zapomnisz o pozostawaniu w cieniu, rzu\u0107 +0, by ustali\u0107, opuszczasz spotkania lub zaniedbujesz czy zosta\u0142e\u015b odkryty: relacje z innymi, by skupi\u0107 si\u0119 wy\u0142\u0105cz",
+            "completesuccess": "Jeste\u015b na razie bezpieczny. nie na obiekcie obsesji. Twoja obsesja mo\u017ce nawet wp\u0142ywa\u0107 na sny, w kt\u00f3rych ",
+            "partialsuccess": "Pope\u0142ni\u0142e\u015b jaki\u015b b\u0142\u0105d. MG zyskuje 1 punkt Wp\u0142ywu. do\u015bwiadczysz wizji i objawie\u0144. Niewy",
+            "failure": "Wszystkie oczy s\u0105 zwr\u00f3cone na ciebie. MG zyskuje kluczone, \u017ce przedmiot twojej obsesji 3 punkty Wp\u0142ywu. tak\u017ce zwr\u00f3ci na ciebie uwag\u0119 i spr\u00f3buje powstrzyma\u0107 twoje \u015bledztwo. ",
+            "options": "MG mo\u017ce wydawa\u0107 punkty Wp\u0142ywu, by wykonywa\u0107 Ruchy w imieniu w\u0142adz. Na przyk\u0142ad twoje zdj\u0119cie mo\u017ce pojawi\u0107 si\u0119 w telewizji i gazetach, funkcjonariusze mog\u0105 usi\u0142owa\u0107 z\u0142apa\u0107 ci\u0119 w pu\u0142apk\u0119, w\u0142adze mog\u0105 zatrzyma\u0107 i przes\u0142ucha\u0107 kogo\u015b ci bliskiego, skonfiskowa\u0107 twoj\u0105 w\u0142asno\u015b\u0107 lub zwr\u00f3ci\u0107 twoj\u0105 rodzin\u0119 czy przyjaci\u00f3\u0142 przeciw tobie. ",
+            "id": "Recherch\u00e9\u00b7e"
+        },
+        {
+            "name": "Ofiara w\u0142asnych nami\u0119tno\u015bci ",
+            "effect": "Bardzo czego\u015b lub kogo\u015b po\u017c\u0105dasz i pragniesz posi\u0105\u015b\u0107 to (lub t\u0119 osob\u0119) za wszelk\u0105 cen\u0119. Podczas pierwszej sesji gry i za ka\u017cdym razem, gdy napotykasz przedmiot swojej pasji (lub co\u015b, co go przypomina), rzu\u0107 +0: ",
+            "completesuccess": "Utrzymujesz swoj\u0105 \u017c\u0105dz\u0119 na wodzy. ",
+            "partialsuccess": "Rozbudza si\u0119 w tobie nami\u0119tno\u015b\u0107. MG zyskuje 1 punkt Wp\u0142ywu. ",
+            "failure": "Nami\u0119tno\u015b\u0107 ma ci\u0119 ca\u0142kowicie w swojej mocy. MG zyskuje 3 punkty Wp\u0142ywu. ",
+            "options": "MG mo\u017ce wydawa\u0107 punkty Wp\u0142ywu, by sprawi\u0107, \u017ce nami\u0119tno\u015b\u0107 pokieruje twoimi dzia\u0142aniami. Mo\u017ce si\u0119 na przyk\u0142ad okaza\u0107, \u017ce t\u0119sknisz za obiektem swojego po\u017c\u0105dania tak mocno, \u017ce musisz go odszuka\u0107 lub obni\u017cy\u0107 Stabilno\u015b\u0107 (\u22122); \u017ce twoje pragnienia sprowadzi\u0142y obiekt po\u017c\u0105dania do twoich sn\u00f3w (by\u0107 mo\u017ce wi\u0119\u017c\u0105c go tam), zazdro\u015b\u0107 i gniew zatru\u0142y twoje uczucia, budz\u0105c potrzeb\u0119 kontrolowania b\u0105d\u017a krzywdzenia obiektu po\u017c\u0105dania (We\u017a si\u0119 w gar\u015b\u0107, by si\u0119 oprze\u0107), twoja t\u0119sknota os\u0142abia ci\u0119 w towarzystwie przedmiotu po\u017c\u0105dania (\u22121 do wszystkich rzut\u00f3w podczas scen, w kt\u00f3rych wyst\u0119puje obiekt po\u017c\u0105dania) albo te\u017c twoje uczucia \u015bci\u0105gaj\u0105 stworzenia uciele\u015bniaj\u0105ce nami\u0119tno\u015b\u0107, chc\u0105ce si\u0119 na niej po\u017cywi\u0107 lub wej\u015b\u0107 ",
+            "id": "Victime de ses passions"
+        },
+        {
+            "name": "Poczucie winy ",
+            "effect": "1 punkt Wp\u0142ywu. ",
+            "completesuccess": "",
+            "partialsuccess": "",
+            "failure": "",
+            "options": "",
+            "id": "Culpabilit\u00e9"
+        },
+        {
+            "name": "Pot\u0119piony ",
+            "effect": "Czas:\uf0a1\uf0a1\uf0a1\uf0a1\uf0a1\uf0a1\uf0a1\uf0a1\uf0a1\uf0a1 Tw\u00f3j los zosta\u0142 przypiecz\u0119towany. By\u0107 mo\u017ce umierasz z powodu choroby, zosta\u0142e\u015b przyrzeczony jako ofiara dla zapomnianego boga lub sprzeda\u0142e\u015b dusz\u0119 jakiej\u015b istocie, kt\u00f3ra czeka, by zaci\u0105gn\u0105\u0107 ci\u0119 do piek\u0142a, gdy nadejdzie czas. Na pocz\u0105tku ka\u017cdej sesji rzu\u0107 +0: ",
+            "completesuccess": "Wci\u0105\u017c masz jeszcze troch\u0119 czasu. ",
+            "partialsuccess": "<ul><li>Tw\u00f3j los si\u0119 zbli\u017ca. MG wybiera jedn\u0105 z poni\u017cszych mo\u017cliwo\u015bci:  </li><li> Gracz zaznacza 1 pole Czasu. </li><li> Dr\u0119cz\u0105 ci\u0119 sny lub wizje dotycz\u0105ce twojego losu. Zmniejsz Stabilno\u015b\u0107 (\u22122).  </li><li> Byt lub wspomnienie o zdarzeniu, kt\u00f3re przypiecz\u0119towa\u0142y tw\u00f3j los, prze\u015bladuj\u0105 ci\u0119.  </li><li> Tw\u00f3j los negatywnie wp\u0142ywa na kogo\u015b w pobli\u017cu. </li><li> Co\u015b daje ci fa\u0142szyw\u0105 nadziej\u0119 ucieczki przed twoim losem. </li></ul>",
+            "failure": "Koniec jest bliski. MG wybiera dwie mo\u017cliwo\u015bci z listy powy\u017cej albo zaznacza 2 pola Czasu. Kiedy w ko\u0144cu zabraknie ci pustych p\u00f3l Czasu, spotykasz sw\u00f3j ostateczny los. ",
+            "options": "",
+            "id": "Condamn\u00e9\u00b7e"
+        },
+        {
+            "name": "Przekl\u0119ty ",
+            "effect": "Jeste\u015b przekl\u0119ty. Podczas pierwszej sesji gry i za ka\u017cdym razem, gdy mierzysz si\u0119 z czym\u015b nadnaturalnym, rzu\u0107 +0, by okre\u015bli\u0107, jak silnie wp\u0142ywa na ciebie kl\u0105twa: ",
+            "completesuccess": "Tymczasowo unikasz wp\u0142ywu kl\u0105twy. ",
+            "partialsuccess": "MG zyskuje 1 punkt Wp\u0142ywu. ",
+            "failure": "MG zyskuje 3 punkty Wp\u0142ywu. ",
+            "options": "MG mo\u017ce wydawa\u0107 punkty Wp\u0142ywu na wykonywanie Ruch\u00f3w repre- zentuj\u0105cych kl\u0105tw\u0119. Na przyk\u0142ad posta\u0107 lub kto\u015b jej bliski ma wypadek, traci co\u015b co nale\u017cy do niej, do\u015bwiadcza straszliwych wizji lub jest zmuszona podj\u0105\u0107 jakie\u015b dzia\u0142ania, ryzykuj\u0105c powa\u017cnymi konsekwencjami w razie odmowy. ",
+            "id": "Maudit\u00b7e"
+        },
+        {
+            "name": "Prze\u015bladowany ",
+            "effect": "Z jakich\u015b powod\u00f3w \u2013 osobistych lub innych \u2013 ludzie, w szczeg\u00f3lno\u015bci w\u0142adze, maj\u0105 sk\u0142onno\u015b\u0107 do prze\u015bladowania ci\u0119. Podczas pierwszej sesji gry i za ka\u017cdym razem, gdy zwracasz na siebie uwag\u0119, rzu\u0107 +0, by okre\u015bli\u0107, czy b\u0119dziesz napastowany: ",
+            "completesuccess": "Udaje ci si\u0119 unikn\u0105\u0107 napastowania. ",
+            "partialsuccess": "MG zyskuje 1 punkt Wp\u0142ywu. ",
+            "failure": "MG zyskuje 3 punkty Wp\u0142ywu. ",
+            "options": "MG mo\u017ce wydawa\u0107 punkty Wp\u0142ywu, by wykonywa\u0107 Ruchy w imie- niu tych, kt\u00f3rzy ci\u0119 prze\u015bladuj\u0105. Na przyk\u0142ad mo\u017ce si\u0119 okaza\u0107, \u017ce kto\u015b zniszczy twoj\u0105 w\u0142asno\u015b\u0107, ludzie uprzedzeni w stosunku do ciebie b\u0119d\u0105 ci\u0119 gn\u0119bi\u0107 i atakowa\u0107, w\u0142adze odbior\u0105 ci co\u015b si\u0142\u0105 (prawa, w\u0142asno\u015b\u0107, zasoby), kto\u015b ci bliski b\u0119dzie prze\u015bladowany z powodu zadawania si\u0119 z tob\u0105 lub ze wzgl\u0119du na to\u017csamo\u015b\u0107 odebrane zostan\u0105 ci podstawowe prawa. ",
+            "id": "Harcel\u00e9\u00b7e"
+        },
+        {
+            "name": "Prze\u015bladowca ",
+            "effect": "\u015aciga ci\u0119 wr\u00f3g o nieznanej to\u017csamo\u015bci. Ka\u017cdy, kogo spotkasz, mo\u017ce by\u0107 jego s\u0142ug\u0105 \u2013 lub nawet nim samym. Nikomu nie mo\u017cna ufa\u0107. Musisz wci\u0105\u017c zmienia\u0107 adresy i zachowywa\u0107 ci\u0105g\u0142\u0105 czujno\u015b\u0107, by nie zostawi\u0107 \u015blad\u00f3w, kt\u00f3rymi m\u00f3g\u0142by pod\u0105\u017cy\u0107. W czasie pierwszej sesji gry i za ka\u017cdym razem, gdy ujawniasz miejsce, gdzie aktualnie przebywasz, rzu\u0107 +0: ",
+            "completesuccess": "Jeste\u015b na razie bezpieczny. ",
+            "partialsuccess": "Twoi wrogowie s\u0105 blisko. MG zyskuje 1 punkt Wp\u0142ywu. ",
+            "failure": "Twoi wrogowie namierzyli ci\u0119. MG zyskuje 3 punkty Wp\u0142ywu. ",
+            "options": "MG mo\u017ce wydawa\u0107 punkty Wp\u0142ywu, by wyko- nywa\u0107 Ruchy w imieniu prze\u015bladowc\u00f3w. Mo\u017ce si\u0119 na przyk\u0142ad okaza\u0107, \u017ce przekupili twojego zaufanego wsp\u00f3\u0142pracownika, jeden z twoich bliskich lub sojusznik\u00f3w znika, wrogowie podkopuj\u0105 twoje dzia\u0142ania lub usi\u0142uj\u0105 ci\u0119 zrani\u0107. ",
+            "id": "Poursuivant\u00b7e"
+        },
+        {
+            "name": "Przymus wewn\u0119trzny ",
+            "effect": "Jeste\u015b skupiony na konkretnej idei lub dzia\u0142aniu do tego stopnia, \u017ce wp\u0142ywa to na twoje \u017cycie. Okre\u015bl przy wyborze tej Komplikacji, o jakiego rodzaju kompulsj\u0119 chodzi. W sytuacjach, gdy kompulsja mo\u017ce ci\u0119 rozproszy\u0107, rzu\u0107 +0: ",
+            "completesuccess": "Opanowujesz kompulsj\u0119 i mo\u017cesz skupi\u0107 si\u0119 na czym\u015b innym. ",
+            "partialsuccess": "Rozpraszasz si\u0119 i otrzymujesz \u22121 do wszystkich rzut\u00f3w do czasu, a\u017c przymus minie (ulegnie zmianie sytuacja, kt\u00f3ra wywo\u0142a\u0142a kompulsj\u0119) lub poddasz si\u0119 kompulsji, wykonuj\u0105c dzia\u0142ania, kt\u00f3re j\u0105 zaspokoj\u0105. ",
+            "failure": "Ca\u0142kowicie poddajesz si\u0119 kompulsji. Je\u015bli skupisz si\u0119 na czymkolwiek innym, obni\u017c Stabilno\u015b\u0107 (\u22122). ",
+            "options": "<ul><li>Lista przyk\u0142adowych kompulsji:  </li><li> sprz\u0105tanie  </li><li> liczenie  </li><li> wielokrotne sprawdzanie czego\u015b  </li><li> mycie si\u0119  </li><li> zapami\u0119tywanie </li><li> liczenie</li><li> mycie si\u0119</li><li> piromania              </li></ul>",
+            "id": "N\u00e9vrose"
+        },
+        {
+            "name": "Przysi\u0119ga zemsty ",
+            "effect": "Przysi\u0105g\u0142e\u015b pom\u015bci\u0107 jak\u0105\u015b niewybaczaln\u0105 niesprawiedliwo\u015b\u0107. Okre\u015bl, kto jest przedmiotem twojej zemsty i co ci zrobi\u0142. Mo\u017ce to by\u0107 jedna osoba, ludzie o okre\u015blonej cesze lub cz\u0142onkowie jakiej\u015b organizacji. Za ka\u017cdym razem, gdy w scenie pojawia si\u0119 cel twojej zemsty (lub kto\u015b albo co\u015b z nim powi\u0105zanego), rzu\u0107 +0: ",
+            "completesuccess": "Kontrolujesz swoj\u0105 m\u015bciwo\u015b\u0107 i mo\u017cesz dzia- \u0142a\u0107 racjonalnie. ",
+            "partialsuccess": "Nie mo\u017cesz skupi\u0107 si\u0119 na niczym innym ni\u017c cel twojej zemsty. Otrzymujesz \u22121 do wszystkich rzut\u00f3w, dop\u00f3ki cel bierze udzia\u0142 w scenie. ",
+            "failure": "Ogarnia ci\u0119 obsesja; mo\u017cesz si\u0119 jedynie m\u015bci\u0107. Zrobienie czegokolwiek innego wymaga Ruchu We\u017a si\u0119 w gar\u015b\u0107. Ta obsesja nie zostanie zaspokojona, dop\u00f3ki tw\u00f3j cel bierze udzia\u0142 w scenie. ",
+            "options": "",
+            "id": "V\u0153u de vengeance"
+        },
+        {
+            "name": "Racjonalista ",
+            "effect": "<ul><li>Odmawiasz wiary w cokolwiek niepotwierdzonego jako fakt przez wsp\u00f3\u0142czesn\u0105 nauk\u0119, nawet je\u015bli widzisz to na w\u0142asne oczy. Za ka\u017cdym razem, gdy wykonujesz Ruch Przejrzyj Iluzj\u0119, i za ka\u017cdym razem, gdy Iluzja rozpada si\u0119, MG mo\u017ce, opr\u00f3cz standardowych efekt\u00f3w, wybra\u0107 jedn\u0105 z mo\u017cliwo\u015bci:  </li><li> Twoja obecno\u015b\u0107 karmi Iluzj\u0119, wzmacniaj\u0105c j\u0105 i czyni\u0105c trudniejsz\u0105 do przejrzenia.  </li><li> Twoja oszo\u0142omiona psychika tworzy w Iluzji lustrzane odbicia znajomych miejsc i os\u00f3b.  </li><li> Przyci\u0105gasz istoty z innych wymiar\u00f3w. </li><li> Zaprzeczasz temu, co widzisz, nawet na w\u0142asn\u0105 szkod\u0119. </li></ul>",
+            "completesuccess": "",
+            "partialsuccess": "",
+            "failure": "",
+            "options": "",
+            "id": "Rationnel\u00b7le"
+        },
+        {
+            "name": "Rozbity ",
+            "effect": "Jakie\u015b wydarzenie z przesz\u0142o\u015bci zrujnowa\u0142o twoj\u0105 psychik\u0119 do tego stopnia, \u017ce nie jeste\u015b w stanie si\u0119 pozbiera\u0107. Co za tym idzie, twoja Stabilno\u015b\u0107 nigdy nie mo\u017ce wzrosn\u0105\u0107 powy\u017cej Przestraszonego (6). ",
+            "completesuccess": "",
+            "partialsuccess": "",
+            "failure": "",
+            "options": "",
+            "id": "D\u00e9ment\u00b7e"
+        },
+        {
+            "name": "Rywal ",
+            "effect": "Masz ambitnego rywala, kt\u00f3ry zrobi wszystko, by zaj\u0105\u0107 twoje miejsce. Okre\u015bl, kim jest. Podczas pierwszej sesji gry i za ka\u017cdym razem, gdy pope\u0142nisz b\u0142\u0105d lub stracisz czujno\u015b\u0107, rzu\u0107 +0: ",
+            "completesuccess": "Wszystko w porz\u0105dku. Tw\u00f3j rywal nie dzia\u0142a prze- ciw tobie. ",
+            "partialsuccess": "Da\u0142e\u015b rywalowi okazj\u0119 do dzia\u0142ania. MG zyskuje 1 punkt Wp\u0142ywu. ",
+            "failure": "Nieumy\u015blnie dostarczy\u0142e\u015b rywalowi okazj\u0119, by m\u00f3g\u0142 zupe\u0142- nie podwa\u017cy\u0107 twoj\u0105 pozycj\u0119. MG zyskuje 3 punkty Wp\u0142ywu. ",
+            "options": "MG mo\u017ce wydawa\u0107 punkty Wp\u0142ywu, by wykonywa\u0107 Ruchy w imieniu twojego rywala. Rywal mo\u017ce na przyk\u0142ad zyska\u0107 wa\u017cnego sojusznika, sabotowa\u0107 jeden z twoich projekt\u00f3w, szanta\u017cowa\u0107 ci\u0119 materia\u0142ami potencjalnie szkodliwymi dla twojej reputacji lub podj\u0105\u0107 desperackie kroki, by pozby\u0107 si\u0119 ciebie na zawsze. ",
+            "id": "Rival\u00b7e"
+        },
+        {
+            "name": "Schizofrenia ",
+            "effect": "Zmagasz si\u0119 z nawracaj\u0105cymi epizodami psychotycznymi i straszliwymi halucynacjami. Podczas pierwszej sesji gry i za ka\u017cdym razem, gdy przechodzisz jakie\u015b trudne do\u015bwiadczenia, rzu\u0107 +0: ",
+            "completesuccess": "Zachowujesz poczytalno\u015b\u0107. ",
+            "partialsuccess": "MG zyskuje 1 punkt Wp\u0142ywu. ",
+            "failure": "Schizofrenia przejmuje kontrol\u0119. MG zyskuje 3 punkty Wp\u0142ywu. ",
+            "options": "MG mo\u017ce wydawa\u0107 punkty Wp\u0142ywu, by wykonywa\u0107 Ruchy reprezentuj\u0105ce twoj\u0105 schizofreni\u0119. Mo\u017ce si\u0119 okaza\u0107 na przyk\u0142ad, \u017ce jedna z twoich halucynacji przyjmuje fizyczn\u0105 posta\u0107, postrzegasz otoczenie jako wrogie, do\u015bwiadczasz strasznych halucynacji, masz mroczne wizje (prawdziwe lub nie) lub dostrzegasz w pobli\u017cu kogo\u015b, kogo tak naprawd\u0119 tam nie ma. ",
+            "id": "Schizophr\u00e9nie"
+        },
+        {
+            "name": "Wyparte wspomnienia ",
+            "effect": "Wypar\u0142e\u015b szczeg\u00f3lnie nieprzyjemne wydarzenie z przesz\u0142o\u015bci, ale jego wspomnienie niekiedy powraca. Mo\u017ce to by\u0107 przest\u0119pstwo lub jaki\u015b straszny czyn, kt\u00f3ry pope\u0142ni\u0142e\u015b, kt\u00f3rego by\u0142e\u015b ofiar\u0105 lub kt\u00f3ry widzia\u0142e\u015b. MG okre\u015bla natur\u0119 wypartego wspomnienia, zwykle opieraj\u0105c si\u0119 na twoim Mrocznym Sekrecie. W sytuacjach zwi\u0105zanych z twoimi wypartymi wspomnieniami, rzu\u0107 +0, by ustali\u0107 czy wspomnienia powracaj\u0105: ",
+            "completesuccess": "Nadal wypierasz wspomnienia. ",
+            "partialsuccess": "Wspomnienia cz\u0119\u015bciowo wracaj\u0105 w formie poje- dynczych obraz\u00f3w lub halucynacji. Musisz Wzi\u0105\u0107 si\u0119 w gar\u015b\u0107. ",
+            "failure": "Jeste\u015b przyt\u0142oczony wspomnieniami; ca\u0142kowicie si\u0119 im poddajesz. MG wykonuje twardy Ruch, a ty obni\u017casz Stabilno\u015b\u0107 (\u22122). ",
+            "options": "",
+            "id": "Souvenirs refoul\u00e9s"
+        },
+        {
+            "name": "Zaburzenia na tle seksualnym ",
+            "effect": "Seksualno\u015b\u0107 jest niszcz\u0105c\u0105 si\u0142\u0105, kt\u00f3ra opanowa\u0142a twoje \u017cycie. Nieustannie poszukujesz przygodnych relacji seksualnych i jeste\u015b got\u00f3w poni\u017cy\u0107 si\u0119 \u2013 lub nawet pope\u0142ni\u0107 przest\u0119pstwo \u2013 by zaspokoi\u0107 swoje fantazje. Za ka\u017cdym razem, gdy masz okazj\u0119 uprawia\u0107 z kim\u015b seks za jego zgod\u0105 lub wykorzysta\u0107 kogo\u015b podatnego na twoje wdzi\u0119ki, rzu\u0107 +0: ",
+            "completesuccess": "Kontrolujesz swoje pop\u0119dy. ",
+            "partialsuccess": "Wybierz pomi\u0119dzy uprawianiem seksu z dan\u0105 osob\u0105 lub obni\u017ceniem Stabilno\u015bci (\u22121). ",
+            "failure": "<ul><li>Nie mo\u017cesz si\u0119 oprze\u0107 stosunkowi z dan\u0105 osob\u0105. MG wybiera jedn\u0105 z mo\u017cliwo\u015bci:  </li><li> Ranisz lub jeste\u015b raniony przez swojego partnera (fizycznie lub psychicznie).  </li><li> Granice mi\u0119dzy \u015bwiatami zacieraj\u0105 si\u0119, co\u015b z drugiej strony wpada na trop \u2013 tw\u00f3j lub twojego kochanka.  </li><li> Tw\u00f3j partner dostaje obsesji na twoim punkcie i zaczyna ci\u0119 prze\u015bladowa\u0107. </li></ul>",
+            "options": "",
+            "id": "N\u00e9vrose sexuelle"
+        },
+        {
+            "name": "Zagubiona to\u017csamo\u015b\u0107 ",
+            "effect": "Twoja prawdziwa to\u017csamo\u015b\u0107 zosta\u0142a wymazana w trakcie wojskowego lub prywatnego programu szpiegowskiego. Nie pami\u0119tasz niczego ze swojego \u017cycia przed zatrudnieniem. Ostatnio jednak zacz\u0119\u0142y do ciebie wraca\u0107 wspomnienia o prawdziwej to\u017csamo\u015bci. Podczas pierwszej sesji gry i za ka\u017cdym razem, gdy napotykasz co\u015b ze swojej wymazanej przesz\u0142o\u015bci, rzu\u0107 +0: ",
+            "completesuccess": "T\u0142umisz wspomnienia o swojej prawdziwej to\u017csamo\u015bci i trzy- masz si\u0119 tera\u017aniejszo\u015bci. ",
+            "partialsuccess": "Masz przeb\u0142yski na temat swojej prawdziwej to\u017csamo\u015bci. MG zyskuje 1 punkt Wp\u0142ywu. ",
+            "failure": "Twoja prawdziwa to\u017csamo\u015b\u0107 przejmuje kontrol\u0119. MG zyskuje 3 punkty Wp\u0142ywu. ",
+            "options": "MG mo\u017ce wydawa\u0107 punkty Wp\u0142ywu, by wykonywa\u0107 Ruchy repre- zentuj\u0105ce twoj\u0105 prawdziw\u0105 to\u017csamo\u015b\u0107. Mo\u017ce okaza\u0107 si\u0119 na przyk\u0142ad, \u017ce rozpoznajesz nieznane ci miejsca lub osoby, kontaktuj\u0105 si\u0119 z tob\u0105 ludzie lub organizacje zwi\u0105zane z twoim dawnym \u017cyciem, twoja dawna to\u017csamo\u015b\u0107 wp\u0142ywa na to, jak my\u015blisz i dzia\u0142asz, lub do\u015bwiadczasz traumatycznych wspomnie\u0144. ",
+            "id": "Identit\u00e9 perdue"
+        },
+        {
+            "name": "Zazdro\u015b\u0107 ",
+            "effect": "Zazdro\u015bcisz komu\u015b jego \u017cycia i zrobisz wszystko, by \u017cy\u0107 tak, jak on. Za ka\u017cdym razem, gdy natrafiasz na osob\u0119, kt\u00f3rej zazdro\u015bcisz, lub cz\u0119\u015b\u0107 jej \u017cycia (przedmioty, rodzin\u0119, przyjaci\u00f3\u0142 itd.) rzu\u0107 +0, by sprawdzi\u0107, czy jeste\u015b w stanie si\u0119 opanowa\u0107: ",
+            "completesuccess": "Zachowujesz kontrol\u0119 nad swoj\u0105 zazdro\u015bci\u0105. ",
+            "partialsuccess": "Ogarnia ci\u0119 zazdro\u015b\u0107. Otrzymujesz \u22121 do wszystkich rzut\u00f3w tak d\u0142ugo, jak d\u0142ugo pozostajesz w pobli\u017cu jej przyczyny i nie st\u0142umisz uczucia zazdro\u015bci. ",
+            "failure": "Zazdro\u015b\u0107 przejmuje nad tob\u0105 kontrol\u0119. Musisz Wzi\u0105\u0107 si\u0119 w gar\u015b\u0107, by nie zrani\u0107 osoby, kt\u00f3rej zazdro\u015bcisz, oraz niczego jej nie zniszczy\u0107 ani nie ukra\u015b\u0107. ",
+            "options": "",
+            "id": "Envieux\u00b7se"
+        },
+        {
+            "name": "Z\u0142a reputacja ",
+            "effect": "Z jakiego\u015b powodu \u015bci\u0105gn\u0105\u0142e\u015b na siebie dezaprobat\u0119 \u2013 a nawet wrogo\u015b\u0107 \u2013 opinii publicznej. By\u0107 mo\u017ce opisano ci\u0119 w tabloidach \u2013 s\u0142usznie lub nie \u2013 jako pedofila lub morderc\u0119. Podczas pierwszej sesji gry i za ka\u017cdym razem, gdy przyci\u0105gasz uwag\u0119 opinii publicznej, rzu\u0107 +0: ",
+            "completesuccess": "Wtapiasz si\u0119 w t\u0142um. Nikt nie chce ci\u0119 dopa\u015b\u0107. ",
+            "partialsuccess": "Zosta\u0142e\u015b rozpoznany. MG zyskuje 1 punkt Wp\u0142ywu. ",
+            "failure": "Rozpozna\u0142o ci\u0119 wielu ludzi. Kieruj\u0105 nimi z\u0142o\u015b\u0107 i strach. MG zyskuje 3 punkty Wp\u0142ywu. ",
+            "options": "MG mo\u017ce wydawa\u0107 punkty Wp\u0142ywu, by wykonywa\u0107 Ruchy reprezentuj\u0105ce to, jak twoja z\u0142a reputacja za tob\u0105 pod\u0105\u017ca. Mo\u017ce si\u0119 na przyk\u0142ad okaza\u0107, \u017ce ludzie odnosz\u0105 si\u0119 do ciebie ze strachem i podejrzliwo\u015bci\u0105, formuje si\u0119 grupa \u017c\u0105daj\u0105ca linczu, twoja w\u0142asno\u015b\u0107 zostaje zniszczona przez wandali, twoi sojusznicy odwracaj\u0105 si\u0119 od ciebie, tracisz prac\u0119 czy kontrakt, odchodz\u0105 od ciebie osoby bliskie. Atuty Atuty to wyj\u0105tkowe zdolno\u015bci, w\u0142a\u015bciwo\u015bci i umiej\u0119tno\u015bci, kt\u00f3re mog\u0105 posiada\u0107 postaci. Ka\u017cda posta\u0107 otrzymuje na pocz\u0105tku trzy Atuty z listy w\u0142a\u015bciwej jej Archetypowi. W miar\u0119 jak BG zdobywaj\u0105 Do\u015bwiadczenie, mog\u0105 oni kupowa\u0107 dodatkowe Atuty. Przewagi Niekt\u00f3re Atuty s\u0105 szczeg\u00f3lnie u\u017cyteczne podczas konflikt\u00f3w fizycznych i scen akcji. Zamiast rzuca\u0107 na nie za ka\u017cdym razem, gdy s\u0105 wykorzystywane w trakcie historii, Atuty te aktywuje si\u0119 raz na scen\u0119 akcji, by otrzyma\u0107 jedn\u0105 lub wi\u0119cej Przewag, kt\u00f3re mo\u017cna wydawa\u0107 na efekty Atutu. Je\u015bli wykonywany jest inny daj\u0105cy graczowi Przewagi Ruch, gracz traci wszystkie poprzednie Przewagi, kt\u00f3rych jeszcze nie wyda\u0142. Wszystkie zebrane Przewagi znikaj\u0105 na koniec sceny akcji. Przyk\u0142ad: Sam uczestniczy w scenie akcji i korzysta z Atutu Uliczny wojownik. Wyrzuca (15+), co zapewnia mu trzy Przewagi. Wydaje jedn\u0105, by uzyska\u0107 +2 w te\u015bcie Ruchu Przyst\u0105p do walki. Sam powala przeciwnika na ziemi\u0119 seri\u0105 szybkich cios\u00f3w, ale jest otoczony przez trzech jego kumpli. Chce teraz u\u017cy\u0107 Atutu Szybki jak b\u0142yskawica, by zaatakowa\u0107 ich wszystkich naraz. Straci jednak w ten spos\u00f3b dwie pozosta\u0142e Przewagi z Ulicznego wojownika i zast\u0105pi je Przewagami zyskanymi z Szybkiego jak b\u0142yskawica. Poniewa\u017c nie mo\u017ce aktywowa\u0107 Ulicznego wojownika ponownie w dalszej cz\u0119\u015bci tej samej sceny, musi zadecydowa\u0107, czy zmiana Atutu jest tego warta. ",
+            "id": "Mauvaise r\u00e9putation"
+        }
+    ]
+}
