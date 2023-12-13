@@ -1,4 +1,4 @@
-Hooks.on('init', () => {
+/*Hooks.on('init', () => {
   if(typeof Babele !== 'undefined') {
       Babele.get().register({
           module: 'kult-compendium-pl',
@@ -6,4 +6,4 @@ Hooks.on('init', () => {
           dir: 'compendium'
       });
   }
-});
+});*/
